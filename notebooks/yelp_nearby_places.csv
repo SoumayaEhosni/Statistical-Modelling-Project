@@ -73,7 +73,7 @@ Saint-Augustin,L'Epicure,4.6,"112 rue du Faubourg Saint-Honoré, 75008 Paris, Fr
 Saint-Augustin,Le Soufflé,4.3,"36 rue du Mont Thabor, 75001 Paris, France",1181.2287591814597,French
 Saint-Augustin,Pomze,4.3,"109 bd Haussmann, 75008 Paris, France",284.1422206669103,French
 Saint-Augustin,Pink Mamma,4.0,"20 bis rue de Douai, 75009 Paris, France",1250.5559700240308,Steakhouses
-Saint-Augustin,Lazare,3.8,"Parvis de la Gare Saint-Lazare, Rue Intérieure, 75008 Paris, France",404.6713517340476,French
+Saint-Augustin,Al Caratello,4.7,"5 rue Audran, 75018 Paris, France",1548.426819536311,Italian
 Lecourbe - Jean Maridor,Le Volant Basque,4.6,"13 rue Béatrix Dussane, 75015 Paris, France",1354.6610582843725,Basque
 Lecourbe - Jean Maridor,Neige d'Eté,4.9,"12 rue de l'Amiral Roussin, 75015 Paris, France",1155.8615904790975,French
 Lecourbe - Jean Maridor,Sagarmatha,4.1,"2 Rue François Mouthon, 75015 Paris, France",299.8180997947253,Indian
@@ -95,8 +95,8 @@ Marcel Pourtout - Édouard Manet ,La Terrasse,3.9,"28 rue de la Libération, 925
 Marcel Pourtout - Édouard Manet ,Le Patte Noire,4.8,"56 Rue Gué, 92500 Rueil Malmaison, France",1325.533714455772,French
 Marcel Pourtout - Édouard Manet ,Café Leffe,3.3,"2 passage d'Arcole, 92500 Rueil Malmaison, France",1102.6269877100835,Cafes
 Port Royal - Hôpital Cochin,L'Avant Comptoir,4.4,"3 carrefour de l'Odéon, 75006 Paris, France",1500.1085512077702,Tapas Bars
-Port Royal - Hôpital Cochin,Les Papilles,4.5,"30 rue Gay-Lussac, 75005 Paris, France",665.3742512306575,Wine Bars
 Port Royal - Hôpital Cochin,La Closerie des Lilas,4.0,"171 bd Montparnasse, 75006 Paris, France",327.0524872284479,Brasseries
+Port Royal - Hôpital Cochin,Les Papilles,4.5,"30 rue Gay-Lussac, 75005 Paris, France",665.3742512306575,Wine Bars
 Port Royal - Hôpital Cochin,Le Bistrot des Campagnes,4.6,"6 rue Léopold Robert, 75014 Paris, France",782.3385361023307,Bistros
 Port Royal - Hôpital Cochin,Académie de la Bière,3.7,"88 bis bd Port Royal, 75005 Paris, France",136.21813254410202,Beer Bar
 Adolphe Pinard - Victor Hugo,Bistrotters,4.6,"9 rue Decrès, 75014 Paris, France",1166.2229490148388,French
@@ -147,5 +147,5 @@ Bridaine - Lamandé,Le Club des 5,3.9,"57 rue des Batignolles, 75017 Paris, Fran
 Ney - Porte de Montmartre,Al Caratello,4.7,"5 rue Audran, 75018 Paris, France",1410.7191074493705,Italian
 Ney - Porte de Montmartre,Sacrée Fleur,4.6,"50 rue Clignancourt, 75018 Paris, France",1429.2777371865423,French
 Ney - Porte de Montmartre,Le Basilic,4.2,"33 rue Lepic, 75018 Paris, France",1335.0078017068965,French
-Ney - Porte de Montmartre,The Hardware Société,4.6,"10 rue Lamarck, 75018 Paris, France",1363.1197243577235,Coffee & Tea
+Ney - Porte de Montmartre,Le Poulbot,4.4,"3 rue Poulbot, 75018 Paris, France",1174.4023223387344,French
 Ney - Porte de Montmartre,La Boîte aux Lettres,4.8,"108 rue Lepic, 75018 Paris, France",1239.1139241696728,French
