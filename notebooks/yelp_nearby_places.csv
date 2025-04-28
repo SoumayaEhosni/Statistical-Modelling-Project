@@ -1,0 +1,151 @@
+station_name,business_name,rating,address,distance,category
+Argenson - Château,Bustronome,4.5,"2 avenue Kléber, 75116 Paris, France",2800.624422691007,French
+Argenson - Château,La Table des Oliviers,4.3,"4 rue de l'Eglise, 92200 Neuilly Sur Seine, France",419.7105283665491,Mediterranean
+Argenson - Château,Léon de Bruxelles,3.9,"95 boulevard Gouvion Saint Cyr, 75017 Paris, France",1845.4690069604355,Seafood
+Argenson - Château,FrogBurger,4.5,"150 avenue Charles de Gaulle, 92200 Neuilly-sur-Seine, France",478.6214966215929,Burgers
+Argenson - Château,Le Chalet de Neuilly,4.0,"14 Rue du Commandant Pilot, 92200 Neuilly-sur-Seine, France",1295.3501089727883,Fondue
+Saint Lambert - Blomet,Le Volant Basque,4.6,"13 rue Béatrix Dussane, 75015 Paris, France",1487.28982316496,Basque
+Saint Lambert - Blomet,Via del Gusto,3.9,"344 rue de Vaugirard, 75015 Paris, France",87.52908132161234,Italian
+Saint Lambert - Blomet,Neige d'Eté,4.9,"12 rue de l'Amiral Roussin, 75015 Paris, France",1061.3862502951251,French
+Saint Lambert - Blomet,Afaria,3.9,"15 rue Desnouettes, 75015 Paris, France",121.37927995479887,French
+Saint Lambert - Blomet,Le Comptoir - Rugbybar,4.3,"354 rue de Vaugirard, 75015 Paris, France",96.34209549914449,Sports Bars
+Saint-Maur - République,Chez Janou,4.1,"2 rue Roger Verlomme, 75003 Paris, France",1165.2764232957904,Bistros
+Saint-Maur - République,Ober Mamma,4.3,"107 boulevard Richard Lenoir, 75011 Paris, France",592.196672009589,Pizza
+Saint-Maur - République,Chez Justine,3.5,"96 rue Oberkampf, 75011 Paris, France",170.21706149389743,French
+Saint-Maur - République,Café Oberkampf,4.4,"3 rue Neuve Popincourt, 75011 Paris, France",327.9260763857803,Cafes
+Saint-Maur - République,Pierre Sang,4.4,"55 rue Oberkampf, 75011 Paris, France",440.50400172626803,French
+Mairie de Rosny-sous-Bois,Okinawa,3.8,"Centre Cial Rosny 2, 93110 Rosny sous Bois, France",72.88906653980641,Restaurants
+Mairie de Rosny-sous-Bois,Courtepaille,4.3,"1 Rue Jules Ferry, 93110 Rosny sous Bois, France",541.9011117634493,French
+Mairie de Rosny-sous-Bois,Le New Shalimar,4.0,"82 avenue du Général de Gaule, 93110 Rosny-sous-Bois, France",991.6434351146984,Pakistani
+Mairie de Rosny-sous-Bois,Pes,5.0,"43 Rue Paul Cavaré, 93110 Rosny sous Bois, France",124.65271345744598,Fast Food
+Mairie de Rosny-sous-Bois,Restaurant Shalimar Indien et Pakistanais,3.0,"25 rue Gén Leclerc, 93110 Rosny sous Bois, France",187.12790222263607,Pakistani
+Mouton Duvernet - Général Leclerc,Chez Félicie,3.9,"174 avenue du Maine, 75014 Paris, France",354.8759898314076,French
+Mouton Duvernet - Général Leclerc,Café du Rendez-Vous,3.6,"2 ave du Général Leclerc, 75014 Paris, France",282.7438391799255,Cafes
+Mouton Duvernet - Général Leclerc,Les Papilles,4.5,"30 rue Gay-Lussac, 75005 Paris, France",1698.7015223743078,Wine Bars
+Mouton Duvernet - Général Leclerc,Le Bistrot des Campagnes,4.6,"6 rue Léopold Robert, 75014 Paris, France",1048.6206502035977,Bistros
+Mouton Duvernet - Général Leclerc,Bistrotters,4.6,"9 rue Decrès, 75014 Paris, France",1060.6580472206288,French
+Pernety - Raymond Losserand,Bistrotters,4.6,"9 rue Decrès, 75014 Paris, France",235.11424099926114,French
+Pernety - Raymond Losserand,Le Bistrot des Campagnes,4.6,"6 rue Léopold Robert, 75014 Paris, France",1215.7985030020131,Bistros
+Pernety - Raymond Losserand,Ayako-Teppanyaki,4.0,"67 rue d'Ouest, 75014 Paris, France",180.08753995248665,Japanese
+Pernety - Raymond Losserand,L'Envie,4.6,"57 rue Pernety, 75014 Paris, France",19.828473594211875,French
+Pernety - Raymond Losserand,Chez Félicie,3.9,"174 avenue du Maine, 75014 Paris, France",551.2020625356281,French
+Champs de Manoeuvre - Cartoucherie,Bustronome,4.5,"2 avenue Kléber, 75116 Paris, France",12010.403082622446,French
+Champs de Manoeuvre - Cartoucherie,Bois de Vincennes,4.3,"Route de la Pyramide, 75012 Paris, France",1337.1132716541883,Parks
+Champs de Manoeuvre - Cartoucherie,Parc Floral de Paris,4.3,"Route du Champs de Manoeuvre, 75012 Paris, France",518.4300603204476,Parks
+Champs de Manoeuvre - Cartoucherie,Château de Vincennes,4.2,"Avenue de Paris, 94300 Vincennes, France",1222.8719670499497,Landmarks & Historical Buildings
+Champs de Manoeuvre - Cartoucherie,Villa Capri,4.3,"2 bd de la Libération, 94300 Vincennes, France",1282.4705941707791,Italian
+Belleville - Télégraphe,Le Jourdain,4.7,"101 rue des Couronnes, 75020 Paris, France",843.7059345027482,Tapas Bars
+Belleville - Télégraphe,Chéri-Chérie,4.4,"203 avenue Gambetta, 75020 Paris, France",474.8448975186174,French
+Belleville - Télégraphe,Bustronome,4.5,"2 avenue Kléber, 75116 Paris, France",7724.20403221909,French
+Belleville - Télégraphe,La Fine Mousse,4.3,"6 avenue Jean Aicard, 75011 Paris, France",1762.5349612813418,Beer Bar
+Belleville - Télégraphe,La Maroquinerie,4.3,"23 Rue Boyer, 75020 Paris, France",974.3052940930023,Bars
+Abbeville - Faubourg Poissonnière,Brasserie Bellanger,4.8,"140 rue du Faubourg Poissonnière, 75010 Paris, France",201.1343827694785,French
+Abbeville - Faubourg Poissonnière,La Maison Bleue,4.4,"7 place Franz Liszt, 75010 Paris, France",168.50919205285476,Bistros
+Abbeville - Faubourg Poissonnière,Terminus Nord,3.7,"23 rue de Dunkerque, 75010 Paris, France",245.04275941493887,French
+Abbeville - Faubourg Poissonnière,Pedzouille,4.7,"66 rue du Faubourg Poissonnière, 75010 Paris, France",346.5610050472424,Bistros
+Abbeville - Faubourg Poissonnière,ASPIC,5.0,"24 rue de la Tour d'Auvergne, 75009 Paris, France",396.56096326659434,French
+Porte de Pantin.,Au Boeuf Couronné,4.1,"188 avenue Jean Jaurès, 75019 Paris, France",285.85865784117215,French
+Porte de Pantin.,Paname Brewing Company,4.1,"41 bis quai de la Loire, 75019 Paris, France",1196.6988844084558,Breweries
+Porte de Pantin.,Philharmonie de Paris,4.2,"221 avenue Jean Jaurès, 75019 Paris, France",89.34383291827743,Music Venues
+Porte de Pantin.,Le Pavillon des Canaux,4.3,"39 quai de la Loire, 75019 Paris, France",1210.3531605129108,Bars
+Porte de Pantin.,Bustronome,4.5,"2 avenue Kléber, 75116 Paris, France",7607.814933692776,French
+Passy - Place du Costa Rica,La Coïncidence,4.5,"15 rue Mesnil, 75116 Paris, France",1069.6151618612546,French
+Passy - Place du Costa Rica,Crêperie Framboise Passy-Trocadéro,4.3,"10 bd Delessert, 75016 Paris, France",89.48973466893203,Creperies
+Passy - Place du Costa Rica,La Petite Tour,4.4,"11 rue de la Tour, 75016 Paris, France",92.13288737804474,French
+Passy - Place du Costa Rica,La Fontaine de Mars,4.4,"129 rue Saint-Dominique, 75007 Paris, France",1360.9530702518625,French
+Passy - Place du Costa Rica,Langousta,4.9,"20 rue Singer, 75016 Paris, France",492.1308351985519,Seafood
+Miromesnil - La Boétie,L'Epicure,4.6,"112 rue du Faubourg Saint-Honoré, 75008 Paris, France",241.4759098505889,French
+Miromesnil - La Boétie,Le Soufflé,4.3,"36 rue du Mont Thabor, 75001 Paris, France",1118.2628695805881,French
+Miromesnil - La Boétie,Pomze,4.3,"109 bd Haussmann, 75008 Paris, France",171.58534392717607,French
+Miromesnil - La Boétie,A la Châtaigne,4.5,"22 rue de Miromesnil, 75008 Paris, France",95.35036205597157,Corsican
+Miromesnil - La Boétie,Le 114 Faubourg,4.6,"114 faubourg Saint-Honoré, 75008 Paris, France",237.7797416161374,French
+Place Etienne Pernet,Le Volant Basque,4.6,"13 rue Béatrix Dussane, 75015 Paris, France",834.5150651200006,Basque
+Place Etienne Pernet,Neige d'Eté,4.9,"12 rue de l'Amiral Roussin, 75015 Paris, France",586.4906842224325,French
+Place Etienne Pernet,Restaurant de la Tour,4.8,"6 Rue Desaix, 75015 Paris, France",1345.844233736064,French
+Place Etienne Pernet,La Table Libanaise,4.2,"25 rue Oscar Roty, 75015 Paris, France",282.51390418491326,Lebanese
+Place Etienne Pernet,Chez Papa,3.3,"101 rue de la Croix-Nivert, 75015 Paris, France",211.80830418393626,French Southwest
+Bons Raisins - Voltaire,Michiko,4.5,"20 Place des Maitres vignerons, 92500 Rueil-Malmaison, France",188.61249446074055,Japanese
+Bons Raisins - Voltaire,Le Fruit Défendu,4.0,"80 boulevard Belle Rive, 92500 Rueil Malmaison, France",1253.3677838871408,French
+Bons Raisins - Voltaire,Les Écuries de Richelieu,4.2,"21 rue du Docteur Zamenhof, 92501 Rueil-Malmaison, France",1089.7223164111101,French
+Bons Raisins - Voltaire,La Terrasse,3.9,"28 rue de la Libération, 92500 Rueil Malmaison, France",913.7685708637895,French
+Bons Raisins - Voltaire,Rueil Impérial,3.9,"12 rue Corneille, 92500 Rueil-Malmaison, France",312.7121155532764,Chinese
+Saint-Augustin,L'Epicure,4.6,"112 rue du Faubourg Saint-Honoré, 75008 Paris, France",625.7310215984568,French
+Saint-Augustin,Le Soufflé,4.3,"36 rue du Mont Thabor, 75001 Paris, France",1181.2287591814597,French
+Saint-Augustin,Pomze,4.3,"109 bd Haussmann, 75008 Paris, France",284.1422206669103,French
+Saint-Augustin,Pink Mamma,4.0,"20 bis rue de Douai, 75009 Paris, France",1250.5559700240308,Steakhouses
+Saint-Augustin,Lazare,3.8,"Parvis de la Gare Saint-Lazare, Rue Intérieure, 75008 Paris, France",404.6713517340476,French
+Lecourbe - Jean Maridor,Le Volant Basque,4.6,"13 rue Béatrix Dussane, 75015 Paris, France",1354.6610582843725,Basque
+Lecourbe - Jean Maridor,Neige d'Eté,4.9,"12 rue de l'Amiral Roussin, 75015 Paris, France",1155.8615904790975,French
+Lecourbe - Jean Maridor,Sagarmatha,4.1,"2 Rue François Mouthon, 75015 Paris, France",299.8180997947253,Indian
+Lecourbe - Jean Maridor,Axuria,4.1,"54 ave Félix Faure, 75015 Paris, France",317.4026950367465,French
+Lecourbe - Jean Maridor,Afaria,3.9,"15 rue Desnouettes, 75015 Paris, France",359.9472459880853,French
+Colonel Monteil - Brune,Bistrotters,4.6,"9 rue Decrès, 75014 Paris, France",838.3137480116868,French
+Colonel Monteil - Brune,Le Jeroboam,4.7,"72 rue Didot, 75014 Paris, France",626.4413688657655,French
+Colonel Monteil - Brune,Chez Félicie,3.9,"174 avenue du Maine, 75014 Paris, France",1304.833065156172,French
+Colonel Monteil - Brune,Bustronome,4.5,"2 avenue Kléber, 75116 Paris, France",5263.156511910692,French
+Colonel Monteil - Brune,Les Artistes,3.8,"60 Rue Didot, 75014 Paris, France",718.977686847798,French
+République - Auguste Perret,Show Devant,4.2,"38 rue Georges Lebigot, 94800 Villejuif, France",1377.1688127565326,Wine Bars
+République - Auguste Perret,Maihak,4.3,"102 rue Jean Jaures, 94800 Villejuif, France",1144.9149114222998,Indian
+République - Auguste Perret,Le Médaillon,5.0,"85 Avenue République, 94800 Villejuif, France",383.1485303325663,French
+République - Auguste Perret,Augusta Pizza,5.0,"114 rue de Chevilly, 94800 Villejuif, France",690.9608563693645,Pizza
+République - Auguste Perret,Rêves de Pains,3.8,"39 rue Camille Desmoulins, 94230 Cachan, France",1504.2807338672305,Bakeries
+Marcel Pourtout - Édouard Manet ,Le Fruit Défendu,4.0,"80 boulevard Belle Rive, 92500 Rueil Malmaison, France",1008.0455960206255,French
+Marcel Pourtout - Édouard Manet ,Les Écuries de Richelieu,4.2,"21 rue du Docteur Zamenhof, 92501 Rueil-Malmaison, France",1311.2184904214755,French
+Marcel Pourtout - Édouard Manet ,La Terrasse,3.9,"28 rue de la Libération, 92500 Rueil Malmaison, France",1369.4000908926384,French
+Marcel Pourtout - Édouard Manet ,Le Patte Noire,4.8,"56 Rue Gué, 92500 Rueil Malmaison, France",1325.533714455772,French
+Marcel Pourtout - Édouard Manet ,Café Leffe,3.3,"2 passage d'Arcole, 92500 Rueil Malmaison, France",1102.6269877100835,Cafes
+Port Royal - Hôpital Cochin,L'Avant Comptoir,4.4,"3 carrefour de l'Odéon, 75006 Paris, France",1500.1085512077702,Tapas Bars
+Port Royal - Hôpital Cochin,Les Papilles,4.5,"30 rue Gay-Lussac, 75005 Paris, France",665.3742512306575,Wine Bars
+Port Royal - Hôpital Cochin,La Closerie des Lilas,4.0,"171 bd Montparnasse, 75006 Paris, France",327.0524872284479,Brasseries
+Port Royal - Hôpital Cochin,Le Bistrot des Campagnes,4.6,"6 rue Léopold Robert, 75014 Paris, France",782.3385361023307,Bistros
+Port Royal - Hôpital Cochin,Académie de la Bière,3.7,"88 bis bd Port Royal, 75005 Paris, France",136.21813254410202,Beer Bar
+Adolphe Pinard - Victor Hugo,Bistrotters,4.6,"9 rue Decrès, 75014 Paris, France",1166.2229490148388,French
+Adolphe Pinard - Victor Hugo,Le Timbre Poste,3.7,"1 rue Rouget de Lisle, 92240 Malakoff, France",258.5898569103933,French
+Adolphe Pinard - Victor Hugo,Le Jeroboam,4.7,"72 rue Didot, 75014 Paris, France",898.3897861178946,French
+Adolphe Pinard - Victor Hugo,Chez Félicie,3.9,"174 avenue du Maine, 75014 Paris, France",1572.8390918685027,French
+Adolphe Pinard - Victor Hugo,Bustronome,4.5,"2 avenue Kléber, 75116 Paris, France",5549.2238502358705,French
+Claude Decaen - Cannebière,Les Zygomates,4.3,"7 rue de Capri, 75012 Paris, France",209.32269668342985,French
+Claude Decaen - Cannebière,East Mamma,4.2,"133 rue du Faubourg Saint-Antoine, 75011 Paris, France",2065.4410345760457,Pizza
+Claude Decaen - Cannebière,Au Trou Gascon,3.9,"40 rue Taine, 75012 Paris, France",269.55594174533724,French
+Claude Decaen - Cannebière,Mokonuts,5.0,"5 rue Saint-Bernard, 75011 Paris, France",1863.48903201263,Cafes
+Claude Decaen - Cannebière,Le Picotin,4.3,"35 rue Sibuet, 75012 Paris 12, France",778.003903248425,French
+Pierre et Marie Curie - Maurice Thorez,Pho Bom,4.4,"71 avenue de Choisy, 75013 Paris, France",1388.1040507692646,Vietnamese
+Pierre et Marie Curie - Maurice Thorez,Mondol Kiri,4.3,"159 avenue de Choisy, 75013 Paris, France",1932.8451694525602,Cambodian
+Pierre et Marie Curie - Maurice Thorez,Bustronome,4.5,"2 avenue Kléber, 75116 Paris, France",8763.891420021711,French
+Pierre et Marie Curie - Maurice Thorez,Chinatown Olympiades,3.8,"44 avenue d'Ivry, 75013 Paris, France",1194.4245965761058,Chinese
+Pierre et Marie Curie - Maurice Thorez,Al Dabke,4.5,"1 bis rue Robespierre, 94200 Ivry sur Seine, France",764.2598828748933,Lebanese
+Mornay - Sully,Le Temps des Cerises,4.4,"31 rue de la Cerisaie, 75004 Paris, France",319.2166903623599,French
+Mornay - Sully,Chez Janou,4.1,"2 rue Roger Verlomme, 75003 Paris, France",802.3998071985584,Bistros
+Mornay - Sully,Chez Margot,4.3,"25 bis bd Henri IV, 75004 Paris, France",253.38974609404823,French
+Mornay - Sully,Chez Mademoiselle,4.5,"16 rue Charlemagne, 75004 Paris, France",616.6384256130141,French
+Mornay - Sully,Septime,4.3,"80 rue de Charonne, 75011 Paris, France",1260.3909330897222,Modern European
+Suzanne Masson,Bustronome,4.5,"2 avenue Kléber, 75116 Paris, France",8692.031178313287,French
+Suzanne Masson,Le Réfectoire - Foodtruck,4.3,"75000 Paris, France",5151.88909767899,Food Trucks
+Suzanne Masson,"Chez Gaby, Casal Do Corvo",5.0,"13 avenue Victor Hugo, 93120 La Courneuve, France",263.1760914222247,Portuguese
+Suzanne Masson,Café Cacao,5.0,"95 rue Hélène Cochennec, 93300 Aubervilliers, France",1053.8673627898256,Dance Clubs
+Suzanne Masson,New Soul Food,4.1,"75013 Paris, France",10458.772448674254,Food Trucks
+Legendre - Clichy,Pink Mamma,4.0,"20 bis rue de Douai, 75009 Paris, France",1175.0000476329942,Steakhouses
+Legendre - Clichy,Al Caratello,4.7,"5 rue Audran, 75018 Paris, France",1061.6034654119155,Italian
+Legendre - Clichy,Comme chez Maman,4.3,"5 rue des Moines, 75017 Paris, France",363.08702800433406,Bistros
+Legendre - Clichy,Le Basilic,4.2,"33 rue Lepic, 75018 Paris, France",920.1268939418832,French
+Legendre - Clichy,Cucuzza,4.8,"14 rue des Moines, 75017 Paris, France",304.16582920116406,Pizza
+Place Charles de Gaulle,Au Soleil Levant,4.7,"168 Grande rue, 92310 Sevres, France",1091.3142889674443,Chinese
+Place Charles de Gaulle,Le Corot,5.0,"55 rue de Versailles, 92410 Ville-d'Avray, France",649.3023919374347,French
+Place Charles de Gaulle,Le Café des Artistes,4.6,"Les Etangs de Corot, 55 rue de Versailles, 92410 Ville-d'Avray, France",692.2704904282251,French
+Place Charles de Gaulle,Le Tajmahal,4.8,"3 rue de la Garenne, 92310 Sèvres, France",1327.641410488462,Indian
+Place Charles de Gaulle,Le Réfectoire - Foodtruck,4.3,"75000 Paris, France",14093.742339090126,Food Trucks
+Roquette - Auguste Laurent,Chez Janou,4.1,"2 rue Roger Verlomme, 75003 Paris, France",1079.421890842419,Bistros
+Roquette - Auguste Laurent,Septime,4.3,"80 rue de Charonne, 75011 Paris, France",501.9173001187637,Modern European
+Roquette - Auguste Laurent,Chez Troquette,4.9,"1 rue Saint-Maur, 75011 Paris, France",135.89311107921108,French
+Roquette - Auguste Laurent,Clamato,4.4,"80 rue Charonne, 75011 Paris, France",503.75295993732135,Seafood
+Roquette - Auguste Laurent,Le Temps des Cerises,4.4,"31 rue de la Cerisaie, 75004 Paris, France",1423.2294584824606,French
+Bridaine - Lamandé,Pink Mamma,4.0,"20 bis rue de Douai, 75009 Paris, France",1121.770858616622,Steakhouses
+Bridaine - Lamandé,Al Caratello,4.7,"5 rue Audran, 75018 Paris, France",1122.0059670144865,Italian
+Bridaine - Lamandé,Comme chez Maman,4.3,"5 rue des Moines, 75017 Paris, France",243.90721814343468,Bistros
+Bridaine - Lamandé,L'Endroit,3.8,"67 place du Docteur Félix Lobligeois, 75017 Paris, France",181.51451128865438,Bistros
+Bridaine - Lamandé,Le Club des 5,3.9,"57 rue des Batignolles, 75017 Paris, France",115.78390351760113,French
+Ney - Porte de Montmartre,Al Caratello,4.7,"5 rue Audran, 75018 Paris, France",1410.7191074493705,Italian
+Ney - Porte de Montmartre,Sacrée Fleur,4.6,"50 rue Clignancourt, 75018 Paris, France",1429.2777371865423,French
+Ney - Porte de Montmartre,Le Basilic,4.2,"33 rue Lepic, 75018 Paris, France",1335.0078017068965,French
+Ney - Porte de Montmartre,The Hardware Société,4.6,"10 rue Lamarck, 75018 Paris, France",1363.1197243577235,Coffee & Tea
+Ney - Porte de Montmartre,La Boîte aux Lettres,4.8,"108 rue Lepic, 75018 Paris, France",1239.1139241696728,French

@@ -1,0 +1,751 @@
+station_name,yelp_business_name,foursquare_business_name,yelp_rating,foursquare_rating,yelp_distance,foursquare_distance
+Argenson - Château,Bustronome,Les Pieds dans l'Eau,4.5,N/A,2800.624422691007,448
+Argenson - Château,Bustronome,Maison Wok,4.5,N/A,2800.624422691007,494
+Argenson - Château,Bustronome,Livio,4.5,N/A,2800.624422691007,626
+Argenson - Château,Bustronome,Le Nouveau Paris,4.5,N/A,2800.624422691007,700
+Argenson - Château,Bustronome,Cercle Nautique de France,4.5,N/A,2800.624422691007,397
+Argenson - Château,La Table des Oliviers,Les Pieds dans l'Eau,4.3,N/A,419.7105283665491,448
+Argenson - Château,La Table des Oliviers,Maison Wok,4.3,N/A,419.7105283665491,494
+Argenson - Château,La Table des Oliviers,Livio,4.3,N/A,419.7105283665491,626
+Argenson - Château,La Table des Oliviers,Le Nouveau Paris,4.3,N/A,419.7105283665491,700
+Argenson - Château,La Table des Oliviers,Cercle Nautique de France,4.3,N/A,419.7105283665491,397
+Argenson - Château,Léon de Bruxelles,Les Pieds dans l'Eau,3.9,N/A,1845.4690069604355,448
+Argenson - Château,Léon de Bruxelles,Maison Wok,3.9,N/A,1845.4690069604355,494
+Argenson - Château,Léon de Bruxelles,Livio,3.9,N/A,1845.4690069604355,626
+Argenson - Château,Léon de Bruxelles,Le Nouveau Paris,3.9,N/A,1845.4690069604355,700
+Argenson - Château,Léon de Bruxelles,Cercle Nautique de France,3.9,N/A,1845.4690069604355,397
+Argenson - Château,FrogBurger,Les Pieds dans l'Eau,4.5,N/A,478.6214966215929,448
+Argenson - Château,FrogBurger,Maison Wok,4.5,N/A,478.6214966215929,494
+Argenson - Château,FrogBurger,Livio,4.5,N/A,478.6214966215929,626
+Argenson - Château,FrogBurger,Le Nouveau Paris,4.5,N/A,478.6214966215929,700
+Argenson - Château,FrogBurger,Cercle Nautique de France,4.5,N/A,478.6214966215929,397
+Argenson - Château,Le Chalet de Neuilly,Les Pieds dans l'Eau,4.0,N/A,1295.3501089727883,448
+Argenson - Château,Le Chalet de Neuilly,Maison Wok,4.0,N/A,1295.3501089727883,494
+Argenson - Château,Le Chalet de Neuilly,Livio,4.0,N/A,1295.3501089727883,626
+Argenson - Château,Le Chalet de Neuilly,Le Nouveau Paris,4.0,N/A,1295.3501089727883,700
+Argenson - Château,Le Chalet de Neuilly,Cercle Nautique de France,4.0,N/A,1295.3501089727883,397
+Saint Lambert - Blomet,Le Volant Basque,The Counter Rugby Bar (Le Comptoir),4.6,N/A,1487.28982316496,92
+Saint Lambert - Blomet,Le Volant Basque,Afaria,4.6,N/A,1487.28982316496,126
+Saint Lambert - Blomet,Le Volant Basque,Le Cambodge,4.6,N/A,1487.28982316496,104
+Saint Lambert - Blomet,Le Volant Basque,Au Petit Parisien,4.6,N/A,1487.28982316496,126
+Saint Lambert - Blomet,Le Volant Basque,Le Grand Venise,4.6,N/A,1487.28982316496,214
+Saint Lambert - Blomet,Via del Gusto,The Counter Rugby Bar (Le Comptoir),3.9,N/A,87.52908132161234,92
+Saint Lambert - Blomet,Via del Gusto,Afaria,3.9,N/A,87.52908132161234,126
+Saint Lambert - Blomet,Via del Gusto,Le Cambodge,3.9,N/A,87.52908132161234,104
+Saint Lambert - Blomet,Via del Gusto,Au Petit Parisien,3.9,N/A,87.52908132161234,126
+Saint Lambert - Blomet,Via del Gusto,Le Grand Venise,3.9,N/A,87.52908132161234,214
+Saint Lambert - Blomet,Neige d'Eté,The Counter Rugby Bar (Le Comptoir),4.9,N/A,1061.3862502951251,92
+Saint Lambert - Blomet,Neige d'Eté,Afaria,4.9,N/A,1061.3862502951251,126
+Saint Lambert - Blomet,Neige d'Eté,Le Cambodge,4.9,N/A,1061.3862502951251,104
+Saint Lambert - Blomet,Neige d'Eté,Au Petit Parisien,4.9,N/A,1061.3862502951251,126
+Saint Lambert - Blomet,Neige d'Eté,Le Grand Venise,4.9,N/A,1061.3862502951251,214
+Saint Lambert - Blomet,Afaria,The Counter Rugby Bar (Le Comptoir),3.9,N/A,121.37927995479887,92
+Saint Lambert - Blomet,Afaria,Afaria,3.9,N/A,121.37927995479887,126
+Saint Lambert - Blomet,Afaria,Le Cambodge,3.9,N/A,121.37927995479887,104
+Saint Lambert - Blomet,Afaria,Au Petit Parisien,3.9,N/A,121.37927995479887,126
+Saint Lambert - Blomet,Afaria,Le Grand Venise,3.9,N/A,121.37927995479887,214
+Saint Lambert - Blomet,Le Comptoir - Rugbybar,The Counter Rugby Bar (Le Comptoir),4.3,N/A,96.34209549914449,92
+Saint Lambert - Blomet,Le Comptoir - Rugbybar,Afaria,4.3,N/A,96.34209549914449,126
+Saint Lambert - Blomet,Le Comptoir - Rugbybar,Le Cambodge,4.3,N/A,96.34209549914449,104
+Saint Lambert - Blomet,Le Comptoir - Rugbybar,Au Petit Parisien,4.3,N/A,96.34209549914449,126
+Saint Lambert - Blomet,Le Comptoir - Rugbybar,Le Grand Venise,4.3,N/A,96.34209549914449,214
+Saint-Maur - République,Chez Janou,Atelier des Lumières,4.1,N/A,1165.2764232957904,325
+Saint-Maur - République,Chez Janou,Boulangerie Chambelland,4.1,N/A,1165.2764232957904,368
+Saint-Maur - République,Chez Janou,The Hood,4.1,N/A,1165.2764232957904,375
+Saint-Maur - République,Chez Janou,La Cave de l'Insolite,4.1,N/A,1165.2764232957904,400
+Saint-Maur - République,Chez Janou,Le Servan,4.1,N/A,1165.2764232957904,407
+Saint-Maur - République,Ober Mamma,Atelier des Lumières,4.3,N/A,592.196672009589,325
+Saint-Maur - République,Ober Mamma,Boulangerie Chambelland,4.3,N/A,592.196672009589,368
+Saint-Maur - République,Ober Mamma,The Hood,4.3,N/A,592.196672009589,375
+Saint-Maur - République,Ober Mamma,La Cave de l'Insolite,4.3,N/A,592.196672009589,400
+Saint-Maur - République,Ober Mamma,Le Servan,4.3,N/A,592.196672009589,407
+Saint-Maur - République,Chez Justine,Atelier des Lumières,3.5,N/A,170.21706149389743,325
+Saint-Maur - République,Chez Justine,Boulangerie Chambelland,3.5,N/A,170.21706149389743,368
+Saint-Maur - République,Chez Justine,The Hood,3.5,N/A,170.21706149389743,375
+Saint-Maur - République,Chez Justine,La Cave de l'Insolite,3.5,N/A,170.21706149389743,400
+Saint-Maur - République,Chez Justine,Le Servan,3.5,N/A,170.21706149389743,407
+Saint-Maur - République,Café Oberkampf,Atelier des Lumières,4.4,N/A,327.9260763857803,325
+Saint-Maur - République,Café Oberkampf,Boulangerie Chambelland,4.4,N/A,327.9260763857803,368
+Saint-Maur - République,Café Oberkampf,The Hood,4.4,N/A,327.9260763857803,375
+Saint-Maur - République,Café Oberkampf,La Cave de l'Insolite,4.4,N/A,327.9260763857803,400
+Saint-Maur - République,Café Oberkampf,Le Servan,4.4,N/A,327.9260763857803,407
+Saint-Maur - République,Pierre Sang,Atelier des Lumières,4.4,N/A,440.50400172626803,325
+Saint-Maur - République,Pierre Sang,Boulangerie Chambelland,4.4,N/A,440.50400172626803,368
+Saint-Maur - République,Pierre Sang,The Hood,4.4,N/A,440.50400172626803,375
+Saint-Maur - République,Pierre Sang,La Cave de l'Insolite,4.4,N/A,440.50400172626803,400
+Saint-Maur - République,Pierre Sang,Le Servan,4.4,N/A,440.50400172626803,407
+Mairie de Rosny-sous-Bois,Okinawa,La Poste,3.8,N/A,72.88906653980641,170
+Mairie de Rosny-sous-Bois,Okinawa,Restaurant Shalimar Indien et Pakistanais,3.8,N/A,72.88906653980641,184
+Mairie de Rosny-sous-Bois,Okinawa,Rapid'Epave,3.8,N/A,72.88906653980641,194
+Mairie de Rosny-sous-Bois,Okinawa,Galeries Lafayette,3.8,N/A,72.88906653980641,206
+Mairie de Rosny-sous-Bois,Okinawa,Rosny 4 Saisons,3.8,N/A,72.88906653980641,215
+Mairie de Rosny-sous-Bois,Courtepaille,La Poste,4.3,N/A,541.9011117634493,170
+Mairie de Rosny-sous-Bois,Courtepaille,Restaurant Shalimar Indien et Pakistanais,4.3,N/A,541.9011117634493,184
+Mairie de Rosny-sous-Bois,Courtepaille,Rapid'Epave,4.3,N/A,541.9011117634493,194
+Mairie de Rosny-sous-Bois,Courtepaille,Galeries Lafayette,4.3,N/A,541.9011117634493,206
+Mairie de Rosny-sous-Bois,Courtepaille,Rosny 4 Saisons,4.3,N/A,541.9011117634493,215
+Mairie de Rosny-sous-Bois,Le New Shalimar,La Poste,4.0,N/A,991.6434351146984,170
+Mairie de Rosny-sous-Bois,Le New Shalimar,Restaurant Shalimar Indien et Pakistanais,4.0,N/A,991.6434351146984,184
+Mairie de Rosny-sous-Bois,Le New Shalimar,Rapid'Epave,4.0,N/A,991.6434351146984,194
+Mairie de Rosny-sous-Bois,Le New Shalimar,Galeries Lafayette,4.0,N/A,991.6434351146984,206
+Mairie de Rosny-sous-Bois,Le New Shalimar,Rosny 4 Saisons,4.0,N/A,991.6434351146984,215
+Mairie de Rosny-sous-Bois,Pes,La Poste,5.0,N/A,124.65271345744598,170
+Mairie de Rosny-sous-Bois,Pes,Restaurant Shalimar Indien et Pakistanais,5.0,N/A,124.65271345744598,184
+Mairie de Rosny-sous-Bois,Pes,Rapid'Epave,5.0,N/A,124.65271345744598,194
+Mairie de Rosny-sous-Bois,Pes,Galeries Lafayette,5.0,N/A,124.65271345744598,206
+Mairie de Rosny-sous-Bois,Pes,Rosny 4 Saisons,5.0,N/A,124.65271345744598,215
+Mairie de Rosny-sous-Bois,Restaurant Shalimar Indien et Pakistanais,La Poste,3.0,N/A,187.12790222263607,170
+Mairie de Rosny-sous-Bois,Restaurant Shalimar Indien et Pakistanais,Restaurant Shalimar Indien et Pakistanais,3.0,N/A,187.12790222263607,184
+Mairie de Rosny-sous-Bois,Restaurant Shalimar Indien et Pakistanais,Rapid'Epave,3.0,N/A,187.12790222263607,194
+Mairie de Rosny-sous-Bois,Restaurant Shalimar Indien et Pakistanais,Galeries Lafayette,3.0,N/A,187.12790222263607,206
+Mairie de Rosny-sous-Bois,Restaurant Shalimar Indien et Pakistanais,Rosny 4 Saisons,3.0,N/A,187.12790222263607,215
+Mouton Duvernet - Général Leclerc,Chez Félicie,Aux Plumes,3.9,N/A,354.8759898314076,132
+Mouton Duvernet - Général Leclerc,Chez Félicie,A Mi Chemin,3.9,N/A,354.8759898314076,176
+Mouton Duvernet - Général Leclerc,Chez Félicie,Les Sourires de Dante,3.9,N/A,354.8759898314076,198
+Mouton Duvernet - Général Leclerc,Chez Félicie,Burger King,3.9,N/A,354.8759898314076,311
+Mouton Duvernet - Général Leclerc,Chez Félicie,Un Jour à Hà Nôi,3.9,N/A,354.8759898314076,356
+Mouton Duvernet - Général Leclerc,Café du Rendez-Vous,Aux Plumes,3.6,N/A,282.7438391799255,132
+Mouton Duvernet - Général Leclerc,Café du Rendez-Vous,A Mi Chemin,3.6,N/A,282.7438391799255,176
+Mouton Duvernet - Général Leclerc,Café du Rendez-Vous,Les Sourires de Dante,3.6,N/A,282.7438391799255,198
+Mouton Duvernet - Général Leclerc,Café du Rendez-Vous,Burger King,3.6,N/A,282.7438391799255,311
+Mouton Duvernet - Général Leclerc,Café du Rendez-Vous,Un Jour à Hà Nôi,3.6,N/A,282.7438391799255,356
+Mouton Duvernet - Général Leclerc,Les Papilles,Aux Plumes,4.5,N/A,1698.7015223743078,132
+Mouton Duvernet - Général Leclerc,Les Papilles,A Mi Chemin,4.5,N/A,1698.7015223743078,176
+Mouton Duvernet - Général Leclerc,Les Papilles,Les Sourires de Dante,4.5,N/A,1698.7015223743078,198
+Mouton Duvernet - Général Leclerc,Les Papilles,Burger King,4.5,N/A,1698.7015223743078,311
+Mouton Duvernet - Général Leclerc,Les Papilles,Un Jour à Hà Nôi,4.5,N/A,1698.7015223743078,356
+Mouton Duvernet - Général Leclerc,Le Bistrot des Campagnes,Aux Plumes,4.6,N/A,1048.6206502035977,132
+Mouton Duvernet - Général Leclerc,Le Bistrot des Campagnes,A Mi Chemin,4.6,N/A,1048.6206502035977,176
+Mouton Duvernet - Général Leclerc,Le Bistrot des Campagnes,Les Sourires de Dante,4.6,N/A,1048.6206502035977,198
+Mouton Duvernet - Général Leclerc,Le Bistrot des Campagnes,Burger King,4.6,N/A,1048.6206502035977,311
+Mouton Duvernet - Général Leclerc,Le Bistrot des Campagnes,Un Jour à Hà Nôi,4.6,N/A,1048.6206502035977,356
+Mouton Duvernet - Général Leclerc,Bistrotters,Aux Plumes,4.6,N/A,1060.6580472206288,132
+Mouton Duvernet - Général Leclerc,Bistrotters,A Mi Chemin,4.6,N/A,1060.6580472206288,176
+Mouton Duvernet - Général Leclerc,Bistrotters,Les Sourires de Dante,4.6,N/A,1060.6580472206288,198
+Mouton Duvernet - Général Leclerc,Bistrotters,Burger King,4.6,N/A,1060.6580472206288,311
+Mouton Duvernet - Général Leclerc,Bistrotters,Un Jour à Hà Nôi,4.6,N/A,1060.6580472206288,356
+Pernety - Raymond Losserand,Bistrotters,L'Entrepôt,4.6,N/A,235.11424099926114,78
+Pernety - Raymond Losserand,Bistrotters,La Cantine du Troquet,4.6,N/A,235.11424099926114,111
+Pernety - Raymond Losserand,Bistrotters,Papy aux Fourneaux,4.6,N/A,235.11424099926114,151
+Pernety - Raymond Losserand,Bistrotters,Ayako,4.6,N/A,235.11424099926114,183
+Pernety - Raymond Losserand,Bistrotters,Sodam,4.6,N/A,235.11424099926114,167
+Pernety - Raymond Losserand,Le Bistrot des Campagnes,L'Entrepôt,4.6,N/A,1215.7985030020131,78
+Pernety - Raymond Losserand,Le Bistrot des Campagnes,La Cantine du Troquet,4.6,N/A,1215.7985030020131,111
+Pernety - Raymond Losserand,Le Bistrot des Campagnes,Papy aux Fourneaux,4.6,N/A,1215.7985030020131,151
+Pernety - Raymond Losserand,Le Bistrot des Campagnes,Ayako,4.6,N/A,1215.7985030020131,183
+Pernety - Raymond Losserand,Le Bistrot des Campagnes,Sodam,4.6,N/A,1215.7985030020131,167
+Pernety - Raymond Losserand,Ayako-Teppanyaki,L'Entrepôt,4.0,N/A,180.08753995248665,78
+Pernety - Raymond Losserand,Ayako-Teppanyaki,La Cantine du Troquet,4.0,N/A,180.08753995248665,111
+Pernety - Raymond Losserand,Ayako-Teppanyaki,Papy aux Fourneaux,4.0,N/A,180.08753995248665,151
+Pernety - Raymond Losserand,Ayako-Teppanyaki,Ayako,4.0,N/A,180.08753995248665,183
+Pernety - Raymond Losserand,Ayako-Teppanyaki,Sodam,4.0,N/A,180.08753995248665,167
+Pernety - Raymond Losserand,L'Envie,L'Entrepôt,4.6,N/A,19.828473594211875,78
+Pernety - Raymond Losserand,L'Envie,La Cantine du Troquet,4.6,N/A,19.828473594211875,111
+Pernety - Raymond Losserand,L'Envie,Papy aux Fourneaux,4.6,N/A,19.828473594211875,151
+Pernety - Raymond Losserand,L'Envie,Ayako,4.6,N/A,19.828473594211875,183
+Pernety - Raymond Losserand,L'Envie,Sodam,4.6,N/A,19.828473594211875,167
+Pernety - Raymond Losserand,Chez Félicie,L'Entrepôt,3.9,N/A,551.2020625356281,78
+Pernety - Raymond Losserand,Chez Félicie,La Cantine du Troquet,3.9,N/A,551.2020625356281,111
+Pernety - Raymond Losserand,Chez Félicie,Papy aux Fourneaux,3.9,N/A,551.2020625356281,151
+Pernety - Raymond Losserand,Chez Félicie,Ayako,3.9,N/A,551.2020625356281,183
+Pernety - Raymond Losserand,Chez Félicie,Sodam,3.9,N/A,551.2020625356281,167
+Champs de Manoeuvre - Cartoucherie,Bustronome,La Cartoucherie,4.5,N/A,12010.403082622446,107
+Champs de Manoeuvre - Cartoucherie,Bustronome,Théâtre du Soleil,4.5,N/A,12010.403082622446,182
+Champs de Manoeuvre - Cartoucherie,Bustronome,Parc Floral de Paris,4.5,N/A,12010.403082622446,307
+Champs de Manoeuvre - Cartoucherie,Bustronome,Aire de jeux du Parc Floral,4.5,N/A,12010.403082622446,297
+Champs de Manoeuvre - Cartoucherie,Bustronome,Centre équestre la Cartoucherie,4.5,N/A,12010.403082622446,52
+Champs de Manoeuvre - Cartoucherie,Bois de Vincennes,La Cartoucherie,4.3,N/A,1337.1132716541883,107
+Champs de Manoeuvre - Cartoucherie,Bois de Vincennes,Théâtre du Soleil,4.3,N/A,1337.1132716541883,182
+Champs de Manoeuvre - Cartoucherie,Bois de Vincennes,Parc Floral de Paris,4.3,N/A,1337.1132716541883,307
+Champs de Manoeuvre - Cartoucherie,Bois de Vincennes,Aire de jeux du Parc Floral,4.3,N/A,1337.1132716541883,297
+Champs de Manoeuvre - Cartoucherie,Bois de Vincennes,Centre équestre la Cartoucherie,4.3,N/A,1337.1132716541883,52
+Champs de Manoeuvre - Cartoucherie,Parc Floral de Paris,La Cartoucherie,4.3,N/A,518.4300603204476,107
+Champs de Manoeuvre - Cartoucherie,Parc Floral de Paris,Théâtre du Soleil,4.3,N/A,518.4300603204476,182
+Champs de Manoeuvre - Cartoucherie,Parc Floral de Paris,Parc Floral de Paris,4.3,N/A,518.4300603204476,307
+Champs de Manoeuvre - Cartoucherie,Parc Floral de Paris,Aire de jeux du Parc Floral,4.3,N/A,518.4300603204476,297
+Champs de Manoeuvre - Cartoucherie,Parc Floral de Paris,Centre équestre la Cartoucherie,4.3,N/A,518.4300603204476,52
+Champs de Manoeuvre - Cartoucherie,Château de Vincennes,La Cartoucherie,4.2,N/A,1222.8719670499497,107
+Champs de Manoeuvre - Cartoucherie,Château de Vincennes,Théâtre du Soleil,4.2,N/A,1222.8719670499497,182
+Champs de Manoeuvre - Cartoucherie,Château de Vincennes,Parc Floral de Paris,4.2,N/A,1222.8719670499497,307
+Champs de Manoeuvre - Cartoucherie,Château de Vincennes,Aire de jeux du Parc Floral,4.2,N/A,1222.8719670499497,297
+Champs de Manoeuvre - Cartoucherie,Château de Vincennes,Centre équestre la Cartoucherie,4.2,N/A,1222.8719670499497,52
+Champs de Manoeuvre - Cartoucherie,Villa Capri,La Cartoucherie,4.3,N/A,1282.4705941707791,107
+Champs de Manoeuvre - Cartoucherie,Villa Capri,Théâtre du Soleil,4.3,N/A,1282.4705941707791,182
+Champs de Manoeuvre - Cartoucherie,Villa Capri,Parc Floral de Paris,4.3,N/A,1282.4705941707791,307
+Champs de Manoeuvre - Cartoucherie,Villa Capri,Aire de jeux du Parc Floral,4.3,N/A,1282.4705941707791,297
+Champs de Manoeuvre - Cartoucherie,Villa Capri,Centre équestre la Cartoucherie,4.3,N/A,1282.4705941707791,52
+Belleville - Télégraphe,Le Jourdain,Resto Rigoletto,4.7,N/A,843.7059345027482,418
+Belleville - Télégraphe,Le Jourdain,Franprix,4.7,N/A,843.7059345027482,267
+Belleville - Télégraphe,Le Jourdain,Carrefour City,4.7,N/A,843.7059345027482,344
+Belleville - Télégraphe,Le Jourdain,Benoît Castel,4.7,N/A,843.7059345027482,604
+Belleville - Télégraphe,Le Jourdain,Au Métro des Lilas,4.7,N/A,843.7059345027482,506
+Belleville - Télégraphe,Chéri-Chérie,Resto Rigoletto,4.4,N/A,474.8448975186174,418
+Belleville - Télégraphe,Chéri-Chérie,Franprix,4.4,N/A,474.8448975186174,267
+Belleville - Télégraphe,Chéri-Chérie,Carrefour City,4.4,N/A,474.8448975186174,344
+Belleville - Télégraphe,Chéri-Chérie,Benoît Castel,4.4,N/A,474.8448975186174,604
+Belleville - Télégraphe,Chéri-Chérie,Au Métro des Lilas,4.4,N/A,474.8448975186174,506
+Belleville - Télégraphe,Bustronome,Resto Rigoletto,4.5,N/A,7724.20403221909,418
+Belleville - Télégraphe,Bustronome,Franprix,4.5,N/A,7724.20403221909,267
+Belleville - Télégraphe,Bustronome,Carrefour City,4.5,N/A,7724.20403221909,344
+Belleville - Télégraphe,Bustronome,Benoît Castel,4.5,N/A,7724.20403221909,604
+Belleville - Télégraphe,Bustronome,Au Métro des Lilas,4.5,N/A,7724.20403221909,506
+Belleville - Télégraphe,La Fine Mousse,Resto Rigoletto,4.3,N/A,1762.5349612813418,418
+Belleville - Télégraphe,La Fine Mousse,Franprix,4.3,N/A,1762.5349612813418,267
+Belleville - Télégraphe,La Fine Mousse,Carrefour City,4.3,N/A,1762.5349612813418,344
+Belleville - Télégraphe,La Fine Mousse,Benoît Castel,4.3,N/A,1762.5349612813418,604
+Belleville - Télégraphe,La Fine Mousse,Au Métro des Lilas,4.3,N/A,1762.5349612813418,506
+Belleville - Télégraphe,La Maroquinerie,Resto Rigoletto,4.3,N/A,974.3052940930023,418
+Belleville - Télégraphe,La Maroquinerie,Franprix,4.3,N/A,974.3052940930023,267
+Belleville - Télégraphe,La Maroquinerie,Carrefour City,4.3,N/A,974.3052940930023,344
+Belleville - Télégraphe,La Maroquinerie,Benoît Castel,4.3,N/A,974.3052940930023,604
+Belleville - Télégraphe,La Maroquinerie,Au Métro des Lilas,4.3,N/A,974.3052940930023,506
+Abbeville - Faubourg Poissonnière,Brasserie Bellanger,Billili,4.8,N/A,201.1343827694785,174
+Abbeville - Faubourg Poissonnière,Brasserie Bellanger,Brasserie Bellanger,4.8,N/A,201.1343827694785,202
+Abbeville - Faubourg Poissonnière,Brasserie Bellanger,Mussubi,4.8,N/A,201.1343827694785,256
+Abbeville - Faubourg Poissonnière,Brasserie Bellanger,Ma Kitchen,4.8,N/A,201.1343827694785,296
+Abbeville - Faubourg Poissonnière,Brasserie Bellanger,La Binouze,4.8,N/A,201.1343827694785,323
+Abbeville - Faubourg Poissonnière,La Maison Bleue,Billili,4.4,N/A,168.50919205285476,174
+Abbeville - Faubourg Poissonnière,La Maison Bleue,Brasserie Bellanger,4.4,N/A,168.50919205285476,202
+Abbeville - Faubourg Poissonnière,La Maison Bleue,Mussubi,4.4,N/A,168.50919205285476,256
+Abbeville - Faubourg Poissonnière,La Maison Bleue,Ma Kitchen,4.4,N/A,168.50919205285476,296
+Abbeville - Faubourg Poissonnière,La Maison Bleue,La Binouze,4.4,N/A,168.50919205285476,323
+Abbeville - Faubourg Poissonnière,Terminus Nord,Billili,3.7,N/A,245.04275941493887,174
+Abbeville - Faubourg Poissonnière,Terminus Nord,Brasserie Bellanger,3.7,N/A,245.04275941493887,202
+Abbeville - Faubourg Poissonnière,Terminus Nord,Mussubi,3.7,N/A,245.04275941493887,256
+Abbeville - Faubourg Poissonnière,Terminus Nord,Ma Kitchen,3.7,N/A,245.04275941493887,296
+Abbeville - Faubourg Poissonnière,Terminus Nord,La Binouze,3.7,N/A,245.04275941493887,323
+Abbeville - Faubourg Poissonnière,Pedzouille,Billili,4.7,N/A,346.5610050472424,174
+Abbeville - Faubourg Poissonnière,Pedzouille,Brasserie Bellanger,4.7,N/A,346.5610050472424,202
+Abbeville - Faubourg Poissonnière,Pedzouille,Mussubi,4.7,N/A,346.5610050472424,256
+Abbeville - Faubourg Poissonnière,Pedzouille,Ma Kitchen,4.7,N/A,346.5610050472424,296
+Abbeville - Faubourg Poissonnière,Pedzouille,La Binouze,4.7,N/A,346.5610050472424,323
+Abbeville - Faubourg Poissonnière,ASPIC,Billili,5.0,N/A,396.56096326659434,174
+Abbeville - Faubourg Poissonnière,ASPIC,Brasserie Bellanger,5.0,N/A,396.56096326659434,202
+Abbeville - Faubourg Poissonnière,ASPIC,Mussubi,5.0,N/A,396.56096326659434,256
+Abbeville - Faubourg Poissonnière,ASPIC,Ma Kitchen,5.0,N/A,396.56096326659434,296
+Abbeville - Faubourg Poissonnière,ASPIC,La Binouze,5.0,N/A,396.56096326659434,323
+Porte de Pantin.,Au Boeuf Couronné,Cité de la Musique,4.1,N/A,285.85865784117215,112
+Porte de Pantin.,Au Boeuf Couronné,Philharmonie de Paris,4.1,N/A,285.85865784117215,213
+Porte de Pantin.,Au Boeuf Couronné,Musée de la Musique,4.1,N/A,285.85865784117215,133
+Porte de Pantin.,Au Boeuf Couronné,Le Local Rock,4.1,N/A,285.85865784117215,193
+Porte de Pantin.,Au Boeuf Couronné,Au Bœuf Couronné,4.1,N/A,285.85865784117215,320
+Porte de Pantin.,Paname Brewing Company,Cité de la Musique,4.1,N/A,1196.6988844084558,112
+Porte de Pantin.,Paname Brewing Company,Philharmonie de Paris,4.1,N/A,1196.6988844084558,213
+Porte de Pantin.,Paname Brewing Company,Musée de la Musique,4.1,N/A,1196.6988844084558,133
+Porte de Pantin.,Paname Brewing Company,Le Local Rock,4.1,N/A,1196.6988844084558,193
+Porte de Pantin.,Paname Brewing Company,Au Bœuf Couronné,4.1,N/A,1196.6988844084558,320
+Porte de Pantin.,Philharmonie de Paris,Cité de la Musique,4.2,N/A,89.34383291827743,112
+Porte de Pantin.,Philharmonie de Paris,Philharmonie de Paris,4.2,N/A,89.34383291827743,213
+Porte de Pantin.,Philharmonie de Paris,Musée de la Musique,4.2,N/A,89.34383291827743,133
+Porte de Pantin.,Philharmonie de Paris,Le Local Rock,4.2,N/A,89.34383291827743,193
+Porte de Pantin.,Philharmonie de Paris,Au Bœuf Couronné,4.2,N/A,89.34383291827743,320
+Porte de Pantin.,Le Pavillon des Canaux,Cité de la Musique,4.3,N/A,1210.3531605129108,112
+Porte de Pantin.,Le Pavillon des Canaux,Philharmonie de Paris,4.3,N/A,1210.3531605129108,213
+Porte de Pantin.,Le Pavillon des Canaux,Musée de la Musique,4.3,N/A,1210.3531605129108,133
+Porte de Pantin.,Le Pavillon des Canaux,Le Local Rock,4.3,N/A,1210.3531605129108,193
+Porte de Pantin.,Le Pavillon des Canaux,Au Bœuf Couronné,4.3,N/A,1210.3531605129108,320
+Porte de Pantin.,Bustronome,Cité de la Musique,4.5,N/A,7607.814933692776,112
+Porte de Pantin.,Bustronome,Philharmonie de Paris,4.5,N/A,7607.814933692776,213
+Porte de Pantin.,Bustronome,Musée de la Musique,4.5,N/A,7607.814933692776,133
+Porte de Pantin.,Bustronome,Le Local Rock,4.5,N/A,7607.814933692776,193
+Porte de Pantin.,Bustronome,Au Bœuf Couronné,4.5,N/A,7607.814933692776,320
+Passy - Place du Costa Rica,La Coïncidence,Le Passy,4.5,N/A,1069.6151618612546,31
+Passy - Place du Costa Rica,La Coïncidence,Le Bistrot des Vignes,4.5,N/A,1069.6151618612546,373
+Passy - Place du Costa Rica,La Coïncidence,Aire de Jeux des Jardins du Trocadéro,4.5,N/A,1069.6151618612546,389
+Passy - Place du Costa Rica,La Coïncidence,Huîtres et Saumons de Passy,4.5,N/A,1069.6151618612546,391
+Passy - Place du Costa Rica,La Coïncidence,Marks & Spencer Food Passy,4.5,N/A,1069.6151618612546,462
+Passy - Place du Costa Rica,Crêperie Framboise Passy-Trocadéro,Le Passy,4.3,N/A,89.48973466893203,31
+Passy - Place du Costa Rica,Crêperie Framboise Passy-Trocadéro,Le Bistrot des Vignes,4.3,N/A,89.48973466893203,373
+Passy - Place du Costa Rica,Crêperie Framboise Passy-Trocadéro,Aire de Jeux des Jardins du Trocadéro,4.3,N/A,89.48973466893203,389
+Passy - Place du Costa Rica,Crêperie Framboise Passy-Trocadéro,Huîtres et Saumons de Passy,4.3,N/A,89.48973466893203,391
+Passy - Place du Costa Rica,Crêperie Framboise Passy-Trocadéro,Marks & Spencer Food Passy,4.3,N/A,89.48973466893203,462
+Passy - Place du Costa Rica,La Petite Tour,Le Passy,4.4,N/A,92.13288737804474,31
+Passy - Place du Costa Rica,La Petite Tour,Le Bistrot des Vignes,4.4,N/A,92.13288737804474,373
+Passy - Place du Costa Rica,La Petite Tour,Aire de Jeux des Jardins du Trocadéro,4.4,N/A,92.13288737804474,389
+Passy - Place du Costa Rica,La Petite Tour,Huîtres et Saumons de Passy,4.4,N/A,92.13288737804474,391
+Passy - Place du Costa Rica,La Petite Tour,Marks & Spencer Food Passy,4.4,N/A,92.13288737804474,462
+Passy - Place du Costa Rica,La Fontaine de Mars,Le Passy,4.4,N/A,1360.9530702518625,31
+Passy - Place du Costa Rica,La Fontaine de Mars,Le Bistrot des Vignes,4.4,N/A,1360.9530702518625,373
+Passy - Place du Costa Rica,La Fontaine de Mars,Aire de Jeux des Jardins du Trocadéro,4.4,N/A,1360.9530702518625,389
+Passy - Place du Costa Rica,La Fontaine de Mars,Huîtres et Saumons de Passy,4.4,N/A,1360.9530702518625,391
+Passy - Place du Costa Rica,La Fontaine de Mars,Marks & Spencer Food Passy,4.4,N/A,1360.9530702518625,462
+Passy - Place du Costa Rica,Langousta,Le Passy,4.9,N/A,492.1308351985519,31
+Passy - Place du Costa Rica,Langousta,Le Bistrot des Vignes,4.9,N/A,492.1308351985519,373
+Passy - Place du Costa Rica,Langousta,Aire de Jeux des Jardins du Trocadéro,4.9,N/A,492.1308351985519,389
+Passy - Place du Costa Rica,Langousta,Huîtres et Saumons de Passy,4.9,N/A,492.1308351985519,391
+Passy - Place du Costa Rica,Langousta,Marks & Spencer Food Passy,4.9,N/A,492.1308351985519,462
+Miromesnil - La Boétie,L'Epicure,Eric Kayser,4.6,N/A,241.4759098505889,5
+Miromesnil - La Boétie,L'Epicure,Bar du Bristol,4.6,N/A,241.4759098505889,222
+Miromesnil - La Boétie,L'Epicure,Café Antonia,4.6,N/A,241.4759098505889,214
+Miromesnil - La Boétie,L'Epicure,Noir,4.6,N/A,241.4759098505889,234
+Miromesnil - La Boétie,L'Epicure,J.J,4.6,N/A,241.4759098505889,224
+Miromesnil - La Boétie,Le Soufflé,Eric Kayser,4.3,N/A,1118.2628695805881,5
+Miromesnil - La Boétie,Le Soufflé,Bar du Bristol,4.3,N/A,1118.2628695805881,222
+Miromesnil - La Boétie,Le Soufflé,Café Antonia,4.3,N/A,1118.2628695805881,214
+Miromesnil - La Boétie,Le Soufflé,Noir,4.3,N/A,1118.2628695805881,234
+Miromesnil - La Boétie,Le Soufflé,J.J,4.3,N/A,1118.2628695805881,224
+Miromesnil - La Boétie,Pomze,Eric Kayser,4.3,N/A,171.58534392717607,5
+Miromesnil - La Boétie,Pomze,Bar du Bristol,4.3,N/A,171.58534392717607,222
+Miromesnil - La Boétie,Pomze,Café Antonia,4.3,N/A,171.58534392717607,214
+Miromesnil - La Boétie,Pomze,Noir,4.3,N/A,171.58534392717607,234
+Miromesnil - La Boétie,Pomze,J.J,4.3,N/A,171.58534392717607,224
+Miromesnil - La Boétie,A la Châtaigne,Eric Kayser,4.5,N/A,95.35036205597157,5
+Miromesnil - La Boétie,A la Châtaigne,Bar du Bristol,4.5,N/A,95.35036205597157,222
+Miromesnil - La Boétie,A la Châtaigne,Café Antonia,4.5,N/A,95.35036205597157,214
+Miromesnil - La Boétie,A la Châtaigne,Noir,4.5,N/A,95.35036205597157,234
+Miromesnil - La Boétie,A la Châtaigne,J.J,4.5,N/A,95.35036205597157,224
+Miromesnil - La Boétie,Le 114 Faubourg,Eric Kayser,4.6,N/A,237.7797416161374,5
+Miromesnil - La Boétie,Le 114 Faubourg,Bar du Bristol,4.6,N/A,237.7797416161374,222
+Miromesnil - La Boétie,Le 114 Faubourg,Café Antonia,4.6,N/A,237.7797416161374,214
+Miromesnil - La Boétie,Le 114 Faubourg,Noir,4.6,N/A,237.7797416161374,234
+Miromesnil - La Boétie,Le 114 Faubourg,J.J,4.6,N/A,237.7797416161374,224
+Place Etienne Pernet,Le Volant Basque,Amorino,4.6,N/A,834.5150651200006,197
+Place Etienne Pernet,Le Volant Basque,Gioco,4.6,N/A,834.5150651200006,167
+Place Etienne Pernet,Le Volant Basque,La Table Libanaise,4.6,N/A,834.5150651200006,252
+Place Etienne Pernet,Le Volant Basque,Square Violet,4.6,N/A,834.5150651200006,269
+Place Etienne Pernet,Le Volant Basque,Square Place du Commerce,4.6,N/A,834.5150651200006,264
+Place Etienne Pernet,Neige d'Eté,Amorino,4.9,N/A,586.4906842224325,197
+Place Etienne Pernet,Neige d'Eté,Gioco,4.9,N/A,586.4906842224325,167
+Place Etienne Pernet,Neige d'Eté,La Table Libanaise,4.9,N/A,586.4906842224325,252
+Place Etienne Pernet,Neige d'Eté,Square Violet,4.9,N/A,586.4906842224325,269
+Place Etienne Pernet,Neige d'Eté,Square Place du Commerce,4.9,N/A,586.4906842224325,264
+Place Etienne Pernet,Restaurant de la Tour,Amorino,4.8,N/A,1345.844233736064,197
+Place Etienne Pernet,Restaurant de la Tour,Gioco,4.8,N/A,1345.844233736064,167
+Place Etienne Pernet,Restaurant de la Tour,La Table Libanaise,4.8,N/A,1345.844233736064,252
+Place Etienne Pernet,Restaurant de la Tour,Square Violet,4.8,N/A,1345.844233736064,269
+Place Etienne Pernet,Restaurant de la Tour,Square Place du Commerce,4.8,N/A,1345.844233736064,264
+Place Etienne Pernet,La Table Libanaise,Amorino,4.2,N/A,282.51390418491326,197
+Place Etienne Pernet,La Table Libanaise,Gioco,4.2,N/A,282.51390418491326,167
+Place Etienne Pernet,La Table Libanaise,La Table Libanaise,4.2,N/A,282.51390418491326,252
+Place Etienne Pernet,La Table Libanaise,Square Violet,4.2,N/A,282.51390418491326,269
+Place Etienne Pernet,La Table Libanaise,Square Place du Commerce,4.2,N/A,282.51390418491326,264
+Place Etienne Pernet,Chez Papa,Amorino,3.3,N/A,211.80830418393626,197
+Place Etienne Pernet,Chez Papa,Gioco,3.3,N/A,211.80830418393626,167
+Place Etienne Pernet,Chez Papa,La Table Libanaise,3.3,N/A,211.80830418393626,252
+Place Etienne Pernet,Chez Papa,Square Violet,3.3,N/A,211.80830418393626,269
+Place Etienne Pernet,Chez Papa,Square Place du Commerce,3.3,N/A,211.80830418393626,264
+Bons Raisins - Voltaire,Michiko,Forêt Domaniale de la Malmaison,4.5,N/A,188.61249446074055,175
+Bons Raisins - Voltaire,Michiko,Clubs Municipaux,4.5,N/A,188.61249446074055,133
+Bons Raisins - Voltaire,Michiko,Peltier Marie-Dominique,4.5,N/A,188.61249446074055,165
+Bons Raisins - Voltaire,Michiko,Marché des Godardes,4.5,N/A,188.61249446074055,368
+Bons Raisins - Voltaire,Michiko,Croix Rouge Francaise Relais Assistantes Maternelles,4.5,N/A,188.61249446074055,240
+Bons Raisins - Voltaire,Le Fruit Défendu,Forêt Domaniale de la Malmaison,4.0,N/A,1253.3677838871408,175
+Bons Raisins - Voltaire,Le Fruit Défendu,Clubs Municipaux,4.0,N/A,1253.3677838871408,133
+Bons Raisins - Voltaire,Le Fruit Défendu,Peltier Marie-Dominique,4.0,N/A,1253.3677838871408,165
+Bons Raisins - Voltaire,Le Fruit Défendu,Marché des Godardes,4.0,N/A,1253.3677838871408,368
+Bons Raisins - Voltaire,Le Fruit Défendu,Croix Rouge Francaise Relais Assistantes Maternelles,4.0,N/A,1253.3677838871408,240
+Bons Raisins - Voltaire,Les Écuries de Richelieu,Forêt Domaniale de la Malmaison,4.2,N/A,1089.7223164111101,175
+Bons Raisins - Voltaire,Les Écuries de Richelieu,Clubs Municipaux,4.2,N/A,1089.7223164111101,133
+Bons Raisins - Voltaire,Les Écuries de Richelieu,Peltier Marie-Dominique,4.2,N/A,1089.7223164111101,165
+Bons Raisins - Voltaire,Les Écuries de Richelieu,Marché des Godardes,4.2,N/A,1089.7223164111101,368
+Bons Raisins - Voltaire,Les Écuries de Richelieu,Croix Rouge Francaise Relais Assistantes Maternelles,4.2,N/A,1089.7223164111101,240
+Bons Raisins - Voltaire,La Terrasse,Forêt Domaniale de la Malmaison,3.9,N/A,913.7685708637895,175
+Bons Raisins - Voltaire,La Terrasse,Clubs Municipaux,3.9,N/A,913.7685708637895,133
+Bons Raisins - Voltaire,La Terrasse,Peltier Marie-Dominique,3.9,N/A,913.7685708637895,165
+Bons Raisins - Voltaire,La Terrasse,Marché des Godardes,3.9,N/A,913.7685708637895,368
+Bons Raisins - Voltaire,La Terrasse,Croix Rouge Francaise Relais Assistantes Maternelles,3.9,N/A,913.7685708637895,240
+Bons Raisins - Voltaire,Rueil Impérial,Forêt Domaniale de la Malmaison,3.9,N/A,312.7121155532764,175
+Bons Raisins - Voltaire,Rueil Impérial,Clubs Municipaux,3.9,N/A,312.7121155532764,133
+Bons Raisins - Voltaire,Rueil Impérial,Peltier Marie-Dominique,3.9,N/A,312.7121155532764,165
+Bons Raisins - Voltaire,Rueil Impérial,Marché des Godardes,3.9,N/A,312.7121155532764,368
+Bons Raisins - Voltaire,Rueil Impérial,Croix Rouge Francaise Relais Assistantes Maternelles,3.9,N/A,312.7121155532764,240
+Saint-Augustin,L'Epicure,Noir,4.6,N/A,625.7310215984568,164
+Saint-Augustin,L'Epicure,Le Petit Ballon,4.6,N/A,625.7310215984568,173
+Saint-Augustin,L'Epicure,Théâtre Tristan Bernard,4.6,N/A,625.7310215984568,291
+Saint-Augustin,L'Epicure,Mandoobar,4.6,N/A,625.7310215984568,377
+Saint-Augustin,L'Epicure,Eric Kayser,4.6,N/A,625.7310215984568,400
+Saint-Augustin,Le Soufflé,Noir,4.3,N/A,1181.2287591814597,164
+Saint-Augustin,Le Soufflé,Le Petit Ballon,4.3,N/A,1181.2287591814597,173
+Saint-Augustin,Le Soufflé,Théâtre Tristan Bernard,4.3,N/A,1181.2287591814597,291
+Saint-Augustin,Le Soufflé,Mandoobar,4.3,N/A,1181.2287591814597,377
+Saint-Augustin,Le Soufflé,Eric Kayser,4.3,N/A,1181.2287591814597,400
+Saint-Augustin,Pomze,Noir,4.3,N/A,284.1422206669103,164
+Saint-Augustin,Pomze,Le Petit Ballon,4.3,N/A,284.1422206669103,173
+Saint-Augustin,Pomze,Théâtre Tristan Bernard,4.3,N/A,284.1422206669103,291
+Saint-Augustin,Pomze,Mandoobar,4.3,N/A,284.1422206669103,377
+Saint-Augustin,Pomze,Eric Kayser,4.3,N/A,284.1422206669103,400
+Saint-Augustin,Pink Mamma,Noir,4.0,N/A,1250.5559700240308,164
+Saint-Augustin,Pink Mamma,Le Petit Ballon,4.0,N/A,1250.5559700240308,173
+Saint-Augustin,Pink Mamma,Théâtre Tristan Bernard,4.0,N/A,1250.5559700240308,291
+Saint-Augustin,Pink Mamma,Mandoobar,4.0,N/A,1250.5559700240308,377
+Saint-Augustin,Pink Mamma,Eric Kayser,4.0,N/A,1250.5559700240308,400
+Saint-Augustin,Lazare,Noir,3.8,N/A,404.6713517340476,164
+Saint-Augustin,Lazare,Le Petit Ballon,3.8,N/A,404.6713517340476,173
+Saint-Augustin,Lazare,Théâtre Tristan Bernard,3.8,N/A,404.6713517340476,291
+Saint-Augustin,Lazare,Mandoobar,3.8,N/A,404.6713517340476,377
+Saint-Augustin,Lazare,Eric Kayser,3.8,N/A,404.6713517340476,400
+Lecourbe - Jean Maridor,Le Volant Basque,Bistro Mon Rêve,4.6,N/A,1354.6610582843725,287
+Lecourbe - Jean Maridor,Le Volant Basque,Le Beurre Noisette,4.6,N/A,1354.6610582843725,330
+Lecourbe - Jean Maridor,Le Volant Basque,Afaria,4.6,N/A,1354.6610582843725,356
+Lecourbe - Jean Maridor,Le Volant Basque,La Table Libanaise,4.6,N/A,1354.6610582843725,435
+Lecourbe - Jean Maridor,Le Volant Basque,L'Os à moelle,4.6,N/A,1354.6610582843725,437
+Lecourbe - Jean Maridor,Neige d'Eté,Bistro Mon Rêve,4.9,N/A,1155.8615904790975,287
+Lecourbe - Jean Maridor,Neige d'Eté,Le Beurre Noisette,4.9,N/A,1155.8615904790975,330
+Lecourbe - Jean Maridor,Neige d'Eté,Afaria,4.9,N/A,1155.8615904790975,356
+Lecourbe - Jean Maridor,Neige d'Eté,La Table Libanaise,4.9,N/A,1155.8615904790975,435
+Lecourbe - Jean Maridor,Neige d'Eté,L'Os à moelle,4.9,N/A,1155.8615904790975,437
+Lecourbe - Jean Maridor,Sagarmatha,Bistro Mon Rêve,4.1,N/A,299.8180997947253,287
+Lecourbe - Jean Maridor,Sagarmatha,Le Beurre Noisette,4.1,N/A,299.8180997947253,330
+Lecourbe - Jean Maridor,Sagarmatha,Afaria,4.1,N/A,299.8180997947253,356
+Lecourbe - Jean Maridor,Sagarmatha,La Table Libanaise,4.1,N/A,299.8180997947253,435
+Lecourbe - Jean Maridor,Sagarmatha,L'Os à moelle,4.1,N/A,299.8180997947253,437
+Lecourbe - Jean Maridor,Axuria,Bistro Mon Rêve,4.1,N/A,317.4026950367465,287
+Lecourbe - Jean Maridor,Axuria,Le Beurre Noisette,4.1,N/A,317.4026950367465,330
+Lecourbe - Jean Maridor,Axuria,Afaria,4.1,N/A,317.4026950367465,356
+Lecourbe - Jean Maridor,Axuria,La Table Libanaise,4.1,N/A,317.4026950367465,435
+Lecourbe - Jean Maridor,Axuria,L'Os à moelle,4.1,N/A,317.4026950367465,437
+Lecourbe - Jean Maridor,Afaria,Bistro Mon Rêve,3.9,N/A,359.9472459880853,287
+Lecourbe - Jean Maridor,Afaria,Le Beurre Noisette,3.9,N/A,359.9472459880853,330
+Lecourbe - Jean Maridor,Afaria,Afaria,3.9,N/A,359.9472459880853,356
+Lecourbe - Jean Maridor,Afaria,La Table Libanaise,3.9,N/A,359.9472459880853,435
+Lecourbe - Jean Maridor,Afaria,L'Os à moelle,3.9,N/A,359.9472459880853,437
+Colonel Monteil - Brune,Bistrotters,Chez Kimly,4.6,N/A,838.3137480116868,553
+Colonel Monteil - Brune,Bistrotters,Bistrotters,4.6,N/A,838.3137480116868,817
+Colonel Monteil - Brune,Bistrotters,La Régalade,4.6,N/A,838.3137480116868,819
+Colonel Monteil - Brune,Bistrotters,Parc Georges Brassens,4.6,N/A,838.3137480116868,833
+Colonel Monteil - Brune,Bistrotters,Le Caroubier,4.6,N/A,838.3137480116868,814
+Colonel Monteil - Brune,Le Jeroboam,Chez Kimly,4.7,N/A,626.4413688657655,553
+Colonel Monteil - Brune,Le Jeroboam,Bistrotters,4.7,N/A,626.4413688657655,817
+Colonel Monteil - Brune,Le Jeroboam,La Régalade,4.7,N/A,626.4413688657655,819
+Colonel Monteil - Brune,Le Jeroboam,Parc Georges Brassens,4.7,N/A,626.4413688657655,833
+Colonel Monteil - Brune,Le Jeroboam,Le Caroubier,4.7,N/A,626.4413688657655,814
+Colonel Monteil - Brune,Chez Félicie,Chez Kimly,3.9,N/A,1304.833065156172,553
+Colonel Monteil - Brune,Chez Félicie,Bistrotters,3.9,N/A,1304.833065156172,817
+Colonel Monteil - Brune,Chez Félicie,La Régalade,3.9,N/A,1304.833065156172,819
+Colonel Monteil - Brune,Chez Félicie,Parc Georges Brassens,3.9,N/A,1304.833065156172,833
+Colonel Monteil - Brune,Chez Félicie,Le Caroubier,3.9,N/A,1304.833065156172,814
+Colonel Monteil - Brune,Bustronome,Chez Kimly,4.5,N/A,5263.156511910692,553
+Colonel Monteil - Brune,Bustronome,Bistrotters,4.5,N/A,5263.156511910692,817
+Colonel Monteil - Brune,Bustronome,La Régalade,4.5,N/A,5263.156511910692,819
+Colonel Monteil - Brune,Bustronome,Parc Georges Brassens,4.5,N/A,5263.156511910692,833
+Colonel Monteil - Brune,Bustronome,Le Caroubier,4.5,N/A,5263.156511910692,814
+Colonel Monteil - Brune,Les Artistes,Chez Kimly,3.8,N/A,718.977686847798,553
+Colonel Monteil - Brune,Les Artistes,Bistrotters,3.8,N/A,718.977686847798,817
+Colonel Monteil - Brune,Les Artistes,La Régalade,3.8,N/A,718.977686847798,819
+Colonel Monteil - Brune,Les Artistes,Parc Georges Brassens,3.8,N/A,718.977686847798,833
+Colonel Monteil - Brune,Les Artistes,Le Caroubier,3.8,N/A,718.977686847798,814
+République - Auguste Perret,Show Devant,Parc Départemental des Hautes-Bruyères,4.2,N/A,1377.1688127565326,235
+République - Auguste Perret,Show Devant,Apcis,4.2,N/A,1377.1688127565326,192
+République - Auguste Perret,Show Devant,Mas les Hautes Bruyères,4.2,N/A,1377.1688127565326,355
+République - Auguste Perret,Show Devant,Stade Nautique Youri Gagarine,4.2,N/A,1377.1688127565326,612
+République - Auguste Perret,Show Devant,Pro Decor,4.2,N/A,1377.1688127565326,751
+République - Auguste Perret,Maihak,Parc Départemental des Hautes-Bruyères,4.3,N/A,1144.9149114222998,235
+République - Auguste Perret,Maihak,Apcis,4.3,N/A,1144.9149114222998,192
+République - Auguste Perret,Maihak,Mas les Hautes Bruyères,4.3,N/A,1144.9149114222998,355
+République - Auguste Perret,Maihak,Stade Nautique Youri Gagarine,4.3,N/A,1144.9149114222998,612
+République - Auguste Perret,Maihak,Pro Decor,4.3,N/A,1144.9149114222998,751
+République - Auguste Perret,Le Médaillon,Parc Départemental des Hautes-Bruyères,5.0,N/A,383.1485303325663,235
+République - Auguste Perret,Le Médaillon,Apcis,5.0,N/A,383.1485303325663,192
+République - Auguste Perret,Le Médaillon,Mas les Hautes Bruyères,5.0,N/A,383.1485303325663,355
+République - Auguste Perret,Le Médaillon,Stade Nautique Youri Gagarine,5.0,N/A,383.1485303325663,612
+République - Auguste Perret,Le Médaillon,Pro Decor,5.0,N/A,383.1485303325663,751
+République - Auguste Perret,Augusta Pizza,Parc Départemental des Hautes-Bruyères,5.0,N/A,690.9608563693645,235
+République - Auguste Perret,Augusta Pizza,Apcis,5.0,N/A,690.9608563693645,192
+République - Auguste Perret,Augusta Pizza,Mas les Hautes Bruyères,5.0,N/A,690.9608563693645,355
+République - Auguste Perret,Augusta Pizza,Stade Nautique Youri Gagarine,5.0,N/A,690.9608563693645,612
+République - Auguste Perret,Augusta Pizza,Pro Decor,5.0,N/A,690.9608563693645,751
+République - Auguste Perret,Rêves de Pains,Parc Départemental des Hautes-Bruyères,3.8,N/A,1504.2807338672305,235
+République - Auguste Perret,Rêves de Pains,Apcis,3.8,N/A,1504.2807338672305,192
+République - Auguste Perret,Rêves de Pains,Mas les Hautes Bruyères,3.8,N/A,1504.2807338672305,355
+République - Auguste Perret,Rêves de Pains,Stade Nautique Youri Gagarine,3.8,N/A,1504.2807338672305,612
+République - Auguste Perret,Rêves de Pains,Pro Decor,3.8,N/A,1504.2807338672305,751
+Marcel Pourtout - Édouard Manet ,Le Fruit Défendu,Piscine Municipale des Closeaux,4.0,N/A,1008.0455960206255,204
+Marcel Pourtout - Édouard Manet ,Le Fruit Défendu,Agfa Gevaert S.A.,4.0,N/A,1008.0455960206255,133
+Marcel Pourtout - Édouard Manet ,Le Fruit Défendu,Auchan Supermarché Rueil-Malmaison,4.0,N/A,1008.0455960206255,299
+Marcel Pourtout - Édouard Manet ,Le Fruit Défendu,Créa Cucine,4.0,N/A,1008.0455960206255,176
+Marcel Pourtout - Édouard Manet ,Le Fruit Défendu,Château de Malmaison,4.0,N/A,1008.0455960206255,539
+Marcel Pourtout - Édouard Manet ,Les Écuries de Richelieu,Piscine Municipale des Closeaux,4.2,N/A,1311.2184904214755,204
+Marcel Pourtout - Édouard Manet ,Les Écuries de Richelieu,Agfa Gevaert S.A.,4.2,N/A,1311.2184904214755,133
+Marcel Pourtout - Édouard Manet ,Les Écuries de Richelieu,Auchan Supermarché Rueil-Malmaison,4.2,N/A,1311.2184904214755,299
+Marcel Pourtout - Édouard Manet ,Les Écuries de Richelieu,Créa Cucine,4.2,N/A,1311.2184904214755,176
+Marcel Pourtout - Édouard Manet ,Les Écuries de Richelieu,Château de Malmaison,4.2,N/A,1311.2184904214755,539
+Marcel Pourtout - Édouard Manet ,La Terrasse,Piscine Municipale des Closeaux,3.9,N/A,1369.4000908926384,204
+Marcel Pourtout - Édouard Manet ,La Terrasse,Agfa Gevaert S.A.,3.9,N/A,1369.4000908926384,133
+Marcel Pourtout - Édouard Manet ,La Terrasse,Auchan Supermarché Rueil-Malmaison,3.9,N/A,1369.4000908926384,299
+Marcel Pourtout - Édouard Manet ,La Terrasse,Créa Cucine,3.9,N/A,1369.4000908926384,176
+Marcel Pourtout - Édouard Manet ,La Terrasse,Château de Malmaison,3.9,N/A,1369.4000908926384,539
+Marcel Pourtout - Édouard Manet ,Le Patte Noire,Piscine Municipale des Closeaux,4.8,N/A,1325.533714455772,204
+Marcel Pourtout - Édouard Manet ,Le Patte Noire,Agfa Gevaert S.A.,4.8,N/A,1325.533714455772,133
+Marcel Pourtout - Édouard Manet ,Le Patte Noire,Auchan Supermarché Rueil-Malmaison,4.8,N/A,1325.533714455772,299
+Marcel Pourtout - Édouard Manet ,Le Patte Noire,Créa Cucine,4.8,N/A,1325.533714455772,176
+Marcel Pourtout - Édouard Manet ,Le Patte Noire,Château de Malmaison,4.8,N/A,1325.533714455772,539
+Marcel Pourtout - Édouard Manet ,Café Leffe,Piscine Municipale des Closeaux,3.3,N/A,1102.6269877100835,204
+Marcel Pourtout - Édouard Manet ,Café Leffe,Agfa Gevaert S.A.,3.3,N/A,1102.6269877100835,133
+Marcel Pourtout - Édouard Manet ,Café Leffe,Auchan Supermarché Rueil-Malmaison,3.3,N/A,1102.6269877100835,299
+Marcel Pourtout - Édouard Manet ,Café Leffe,Créa Cucine,3.3,N/A,1102.6269877100835,176
+Marcel Pourtout - Édouard Manet ,Café Leffe,Château de Malmaison,3.3,N/A,1102.6269877100835,539
+Port Royal - Hôpital Cochin,L'Avant Comptoir,Académie de la Bière,4.4,N/A,1500.1085512077702,136
+Port Royal - Hôpital Cochin,L'Avant Comptoir,Cantinella,4.4,N/A,1500.1085512077702,246
+Port Royal - Hôpital Cochin,L'Avant Comptoir,La Closerie des Lilas,4.4,N/A,1500.1085512077702,380
+Port Royal - Hôpital Cochin,L'Avant Comptoir,Fontaine de l'Observatoire,4.4,N/A,1500.1085512077702,395
+Port Royal - Hôpital Cochin,L'Avant Comptoir,Jardin des Grands Explorateurs Marco Polo et Cavelier-de-la-Salle,4.4,N/A,1500.1085512077702,445
+Port Royal - Hôpital Cochin,Les Papilles,Académie de la Bière,4.5,N/A,665.3742512306575,136
+Port Royal - Hôpital Cochin,Les Papilles,Cantinella,4.5,N/A,665.3742512306575,246
+Port Royal - Hôpital Cochin,Les Papilles,La Closerie des Lilas,4.5,N/A,665.3742512306575,380
+Port Royal - Hôpital Cochin,Les Papilles,Fontaine de l'Observatoire,4.5,N/A,665.3742512306575,395
+Port Royal - Hôpital Cochin,Les Papilles,Jardin des Grands Explorateurs Marco Polo et Cavelier-de-la-Salle,4.5,N/A,665.3742512306575,445
+Port Royal - Hôpital Cochin,La Closerie des Lilas,Académie de la Bière,4.0,N/A,327.0524872284479,136
+Port Royal - Hôpital Cochin,La Closerie des Lilas,Cantinella,4.0,N/A,327.0524872284479,246
+Port Royal - Hôpital Cochin,La Closerie des Lilas,La Closerie des Lilas,4.0,N/A,327.0524872284479,380
+Port Royal - Hôpital Cochin,La Closerie des Lilas,Fontaine de l'Observatoire,4.0,N/A,327.0524872284479,395
+Port Royal - Hôpital Cochin,La Closerie des Lilas,Jardin des Grands Explorateurs Marco Polo et Cavelier-de-la-Salle,4.0,N/A,327.0524872284479,445
+Port Royal - Hôpital Cochin,Le Bistrot des Campagnes,Académie de la Bière,4.6,N/A,782.3385361023307,136
+Port Royal - Hôpital Cochin,Le Bistrot des Campagnes,Cantinella,4.6,N/A,782.3385361023307,246
+Port Royal - Hôpital Cochin,Le Bistrot des Campagnes,La Closerie des Lilas,4.6,N/A,782.3385361023307,380
+Port Royal - Hôpital Cochin,Le Bistrot des Campagnes,Fontaine de l'Observatoire,4.6,N/A,782.3385361023307,395
+Port Royal - Hôpital Cochin,Le Bistrot des Campagnes,Jardin des Grands Explorateurs Marco Polo et Cavelier-de-la-Salle,4.6,N/A,782.3385361023307,445
+Port Royal - Hôpital Cochin,Académie de la Bière,Académie de la Bière,3.7,N/A,136.21813254410202,136
+Port Royal - Hôpital Cochin,Académie de la Bière,Cantinella,3.7,N/A,136.21813254410202,246
+Port Royal - Hôpital Cochin,Académie de la Bière,La Closerie des Lilas,3.7,N/A,136.21813254410202,380
+Port Royal - Hôpital Cochin,Académie de la Bière,Fontaine de l'Observatoire,3.7,N/A,136.21813254410202,395
+Port Royal - Hôpital Cochin,Académie de la Bière,Jardin des Grands Explorateurs Marco Polo et Cavelier-de-la-Salle,3.7,N/A,136.21813254410202,445
+Adolphe Pinard - Victor Hugo,Bistrotters,Chez Kimly,4.6,N/A,1166.2229490148388,817
+Adolphe Pinard - Victor Hugo,Bistrotters,Spiga d'Oro 2,4.6,N/A,1166.2229490148388,790
+Adolphe Pinard - Victor Hugo,Bistrotters,Le Rouge Gorge,4.6,N/A,1166.2229490148388,854
+Adolphe Pinard - Victor Hugo,Bistrotters,La Régalade,4.6,N/A,1166.2229490148388,923
+Adolphe Pinard - Victor Hugo,Bistrotters,Le Caroubier,4.6,N/A,1166.2229490148388,889
+Adolphe Pinard - Victor Hugo,Le Timbre Poste,Chez Kimly,3.7,N/A,258.5898569103933,817
+Adolphe Pinard - Victor Hugo,Le Timbre Poste,Spiga d'Oro 2,3.7,N/A,258.5898569103933,790
+Adolphe Pinard - Victor Hugo,Le Timbre Poste,Le Rouge Gorge,3.7,N/A,258.5898569103933,854
+Adolphe Pinard - Victor Hugo,Le Timbre Poste,La Régalade,3.7,N/A,258.5898569103933,923
+Adolphe Pinard - Victor Hugo,Le Timbre Poste,Le Caroubier,3.7,N/A,258.5898569103933,889
+Adolphe Pinard - Victor Hugo,Le Jeroboam,Chez Kimly,4.7,N/A,898.3897861178946,817
+Adolphe Pinard - Victor Hugo,Le Jeroboam,Spiga d'Oro 2,4.7,N/A,898.3897861178946,790
+Adolphe Pinard - Victor Hugo,Le Jeroboam,Le Rouge Gorge,4.7,N/A,898.3897861178946,854
+Adolphe Pinard - Victor Hugo,Le Jeroboam,La Régalade,4.7,N/A,898.3897861178946,923
+Adolphe Pinard - Victor Hugo,Le Jeroboam,Le Caroubier,4.7,N/A,898.3897861178946,889
+Adolphe Pinard - Victor Hugo,Chez Félicie,Chez Kimly,3.9,N/A,1572.8390918685027,817
+Adolphe Pinard - Victor Hugo,Chez Félicie,Spiga d'Oro 2,3.9,N/A,1572.8390918685027,790
+Adolphe Pinard - Victor Hugo,Chez Félicie,Le Rouge Gorge,3.9,N/A,1572.8390918685027,854
+Adolphe Pinard - Victor Hugo,Chez Félicie,La Régalade,3.9,N/A,1572.8390918685027,923
+Adolphe Pinard - Victor Hugo,Chez Félicie,Le Caroubier,3.9,N/A,1572.8390918685027,889
+Adolphe Pinard - Victor Hugo,Bustronome,Chez Kimly,4.5,N/A,5549.2238502358705,817
+Adolphe Pinard - Victor Hugo,Bustronome,Spiga d'Oro 2,4.5,N/A,5549.2238502358705,790
+Adolphe Pinard - Victor Hugo,Bustronome,Le Rouge Gorge,4.5,N/A,5549.2238502358705,854
+Adolphe Pinard - Victor Hugo,Bustronome,La Régalade,4.5,N/A,5549.2238502358705,923
+Adolphe Pinard - Victor Hugo,Bustronome,Le Caroubier,4.5,N/A,5549.2238502358705,889
+Claude Decaen - Cannebière,Les Zygomates,Zic Zinc,4.3,N/A,209.32269668342985,154
+Claude Decaen - Cannebière,Les Zygomates,Atout Livre,4.3,N/A,209.32269668342985,165
+Claude Decaen - Cannebière,Les Zygomates,Boulangerie Daumesnil,4.3,N/A,209.32269668342985,171
+Claude Decaen - Cannebière,Les Zygomates,Le Mai Vietnam,4.3,N/A,209.32269668342985,258
+Claude Decaen - Cannebière,Les Zygomates,Bar & Beer,4.3,N/A,209.32269668342985,416
+Claude Decaen - Cannebière,East Mamma,Zic Zinc,4.2,N/A,2065.4410345760457,154
+Claude Decaen - Cannebière,East Mamma,Atout Livre,4.2,N/A,2065.4410345760457,165
+Claude Decaen - Cannebière,East Mamma,Boulangerie Daumesnil,4.2,N/A,2065.4410345760457,171
+Claude Decaen - Cannebière,East Mamma,Le Mai Vietnam,4.2,N/A,2065.4410345760457,258
+Claude Decaen - Cannebière,East Mamma,Bar & Beer,4.2,N/A,2065.4410345760457,416
+Claude Decaen - Cannebière,Au Trou Gascon,Zic Zinc,3.9,N/A,269.55594174533724,154
+Claude Decaen - Cannebière,Au Trou Gascon,Atout Livre,3.9,N/A,269.55594174533724,165
+Claude Decaen - Cannebière,Au Trou Gascon,Boulangerie Daumesnil,3.9,N/A,269.55594174533724,171
+Claude Decaen - Cannebière,Au Trou Gascon,Le Mai Vietnam,3.9,N/A,269.55594174533724,258
+Claude Decaen - Cannebière,Au Trou Gascon,Bar & Beer,3.9,N/A,269.55594174533724,416
+Claude Decaen - Cannebière,Mokonuts,Zic Zinc,5.0,N/A,1863.48903201263,154
+Claude Decaen - Cannebière,Mokonuts,Atout Livre,5.0,N/A,1863.48903201263,165
+Claude Decaen - Cannebière,Mokonuts,Boulangerie Daumesnil,5.0,N/A,1863.48903201263,171
+Claude Decaen - Cannebière,Mokonuts,Le Mai Vietnam,5.0,N/A,1863.48903201263,258
+Claude Decaen - Cannebière,Mokonuts,Bar & Beer,5.0,N/A,1863.48903201263,416
+Claude Decaen - Cannebière,Le Picotin,Zic Zinc,4.3,N/A,778.003903248425,154
+Claude Decaen - Cannebière,Le Picotin,Atout Livre,4.3,N/A,778.003903248425,165
+Claude Decaen - Cannebière,Le Picotin,Boulangerie Daumesnil,4.3,N/A,778.003903248425,171
+Claude Decaen - Cannebière,Le Picotin,Le Mai Vietnam,4.3,N/A,778.003903248425,258
+Claude Decaen - Cannebière,Le Picotin,Bar & Beer,4.3,N/A,778.003903248425,416
+Pierre et Marie Curie - Maurice Thorez,Pho Bom,Okahashi,4.4,N/A,1388.1040507692646,249
+Pierre et Marie Curie - Maurice Thorez,Pho Bom,Bistrot le Nouveau Brooklyn,4.4,N/A,1388.1040507692646,504
+Pierre et Marie Curie - Maurice Thorez,Pho Bom,Franprix,4.4,N/A,1388.1040507692646,374
+Pierre et Marie Curie - Maurice Thorez,Pho Bom,Franprix,4.4,N/A,1388.1040507692646,368
+Pierre et Marie Curie - Maurice Thorez,Pho Bom,Pasqualina,4.4,N/A,1388.1040507692646,588
+Pierre et Marie Curie - Maurice Thorez,Mondol Kiri,Okahashi,4.3,N/A,1932.8451694525602,249
+Pierre et Marie Curie - Maurice Thorez,Mondol Kiri,Bistrot le Nouveau Brooklyn,4.3,N/A,1932.8451694525602,504
+Pierre et Marie Curie - Maurice Thorez,Mondol Kiri,Franprix,4.3,N/A,1932.8451694525602,374
+Pierre et Marie Curie - Maurice Thorez,Mondol Kiri,Franprix,4.3,N/A,1932.8451694525602,368
+Pierre et Marie Curie - Maurice Thorez,Mondol Kiri,Pasqualina,4.3,N/A,1932.8451694525602,588
+Pierre et Marie Curie - Maurice Thorez,Bustronome,Okahashi,4.5,N/A,8763.891420021711,249
+Pierre et Marie Curie - Maurice Thorez,Bustronome,Bistrot le Nouveau Brooklyn,4.5,N/A,8763.891420021711,504
+Pierre et Marie Curie - Maurice Thorez,Bustronome,Franprix,4.5,N/A,8763.891420021711,374
+Pierre et Marie Curie - Maurice Thorez,Bustronome,Franprix,4.5,N/A,8763.891420021711,368
+Pierre et Marie Curie - Maurice Thorez,Bustronome,Pasqualina,4.5,N/A,8763.891420021711,588
+Pierre et Marie Curie - Maurice Thorez,Chinatown Olympiades,Okahashi,3.8,N/A,1194.4245965761058,249
+Pierre et Marie Curie - Maurice Thorez,Chinatown Olympiades,Bistrot le Nouveau Brooklyn,3.8,N/A,1194.4245965761058,504
+Pierre et Marie Curie - Maurice Thorez,Chinatown Olympiades,Franprix,3.8,N/A,1194.4245965761058,374
+Pierre et Marie Curie - Maurice Thorez,Chinatown Olympiades,Franprix,3.8,N/A,1194.4245965761058,368
+Pierre et Marie Curie - Maurice Thorez,Chinatown Olympiades,Pasqualina,3.8,N/A,1194.4245965761058,588
+Pierre et Marie Curie - Maurice Thorez,Al Dabke,Okahashi,4.5,N/A,764.2598828748933,249
+Pierre et Marie Curie - Maurice Thorez,Al Dabke,Bistrot le Nouveau Brooklyn,4.5,N/A,764.2598828748933,504
+Pierre et Marie Curie - Maurice Thorez,Al Dabke,Franprix,4.5,N/A,764.2598828748933,374
+Pierre et Marie Curie - Maurice Thorez,Al Dabke,Franprix,4.5,N/A,764.2598828748933,368
+Pierre et Marie Curie - Maurice Thorez,Al Dabke,Pasqualina,4.5,N/A,764.2598828748933,588
+Mornay - Sully,Le Temps des Cerises,Maria Loca,4.4,N/A,319.2166903623599,289
+Mornay - Sully,Le Temps des Cerises,Écluse de l'Arsenal,4.4,N/A,319.2166903623599,293
+Mornay - Sully,Le Temps des Cerises,Sherry Butt,4.4,N/A,319.2166903623599,396
+Mornay - Sully,Le Temps des Cerises,Opéra Bastille,4.4,N/A,319.2166903623599,516
+Mornay - Sully,Le Temps des Cerises,Place de la Bastille,4.4,N/A,319.2166903623599,511
+Mornay - Sully,Chez Janou,Maria Loca,4.1,N/A,802.3998071985584,289
+Mornay - Sully,Chez Janou,Écluse de l'Arsenal,4.1,N/A,802.3998071985584,293
+Mornay - Sully,Chez Janou,Sherry Butt,4.1,N/A,802.3998071985584,396
+Mornay - Sully,Chez Janou,Opéra Bastille,4.1,N/A,802.3998071985584,516
+Mornay - Sully,Chez Janou,Place de la Bastille,4.1,N/A,802.3998071985584,511
+Mornay - Sully,Chez Margot,Maria Loca,4.3,N/A,253.38974609404823,289
+Mornay - Sully,Chez Margot,Écluse de l'Arsenal,4.3,N/A,253.38974609404823,293
+Mornay - Sully,Chez Margot,Sherry Butt,4.3,N/A,253.38974609404823,396
+Mornay - Sully,Chez Margot,Opéra Bastille,4.3,N/A,253.38974609404823,516
+Mornay - Sully,Chez Margot,Place de la Bastille,4.3,N/A,253.38974609404823,511
+Mornay - Sully,Chez Mademoiselle,Maria Loca,4.5,N/A,616.6384256130141,289
+Mornay - Sully,Chez Mademoiselle,Écluse de l'Arsenal,4.5,N/A,616.6384256130141,293
+Mornay - Sully,Chez Mademoiselle,Sherry Butt,4.5,N/A,616.6384256130141,396
+Mornay - Sully,Chez Mademoiselle,Opéra Bastille,4.5,N/A,616.6384256130141,516
+Mornay - Sully,Chez Mademoiselle,Place de la Bastille,4.5,N/A,616.6384256130141,511
+Mornay - Sully,Septime,Maria Loca,4.3,N/A,1260.3909330897222,289
+Mornay - Sully,Septime,Écluse de l'Arsenal,4.3,N/A,1260.3909330897222,293
+Mornay - Sully,Septime,Sherry Butt,4.3,N/A,1260.3909330897222,396
+Mornay - Sully,Septime,Opéra Bastille,4.3,N/A,1260.3909330897222,516
+Mornay - Sully,Septime,Place de la Bastille,4.3,N/A,1260.3909330897222,511
+Suzanne Masson,Bustronome,Point.P,4.5,N/A,8692.031178313287,410
+Suzanne Masson,Bustronome,La Poste,4.5,N/A,8692.031178313287,573
+Suzanne Masson,Bustronome,Pharmacie du Centre,4.5,N/A,8692.031178313287,646
+Suzanne Masson,Bustronome,ENEDIS la Courneuve,4.5,N/A,8692.031178313287,697
+Suzanne Masson,Bustronome,Domaliance,4.5,N/A,8692.031178313287,699
+Suzanne Masson,Le Réfectoire - Foodtruck,Point.P,4.3,N/A,5151.88909767899,410
+Suzanne Masson,Le Réfectoire - Foodtruck,La Poste,4.3,N/A,5151.88909767899,573
+Suzanne Masson,Le Réfectoire - Foodtruck,Pharmacie du Centre,4.3,N/A,5151.88909767899,646
+Suzanne Masson,Le Réfectoire - Foodtruck,ENEDIS la Courneuve,4.3,N/A,5151.88909767899,697
+Suzanne Masson,Le Réfectoire - Foodtruck,Domaliance,4.3,N/A,5151.88909767899,699
+Suzanne Masson,"Chez Gaby, Casal Do Corvo",Point.P,5.0,N/A,263.1760914222247,410
+Suzanne Masson,"Chez Gaby, Casal Do Corvo",La Poste,5.0,N/A,263.1760914222247,573
+Suzanne Masson,"Chez Gaby, Casal Do Corvo",Pharmacie du Centre,5.0,N/A,263.1760914222247,646
+Suzanne Masson,"Chez Gaby, Casal Do Corvo",ENEDIS la Courneuve,5.0,N/A,263.1760914222247,697
+Suzanne Masson,"Chez Gaby, Casal Do Corvo",Domaliance,5.0,N/A,263.1760914222247,699
+Suzanne Masson,Café Cacao,Point.P,5.0,N/A,1053.8673627898256,410
+Suzanne Masson,Café Cacao,La Poste,5.0,N/A,1053.8673627898256,573
+Suzanne Masson,Café Cacao,Pharmacie du Centre,5.0,N/A,1053.8673627898256,646
+Suzanne Masson,Café Cacao,ENEDIS la Courneuve,5.0,N/A,1053.8673627898256,697
+Suzanne Masson,Café Cacao,Domaliance,5.0,N/A,1053.8673627898256,699
+Suzanne Masson,New Soul Food,Point.P,4.1,N/A,10458.772448674254,410
+Suzanne Masson,New Soul Food,La Poste,4.1,N/A,10458.772448674254,573
+Suzanne Masson,New Soul Food,Pharmacie du Centre,4.1,N/A,10458.772448674254,646
+Suzanne Masson,New Soul Food,ENEDIS la Courneuve,4.1,N/A,10458.772448674254,697
+Suzanne Masson,New Soul Food,Domaliance,4.1,N/A,10458.772448674254,699
+Legendre - Clichy,Pink Mamma,Marché Couvert Batignolles,4.0,N/A,1175.0000476329942,233
+Legendre - Clichy,Pink Mamma,Menelik,4.0,N/A,1175.0000476329942,243
+Legendre - Clichy,Pink Mamma,Cucuzza,4.0,N/A,1175.0000476329942,305
+Legendre - Clichy,Pink Mamma,Le Refuge des Moines,4.0,N/A,1175.0000476329942,312
+Legendre - Clichy,Pink Mamma,L'Etabli,4.0,N/A,1175.0000476329942,347
+Legendre - Clichy,Al Caratello,Marché Couvert Batignolles,4.7,N/A,1061.6034654119155,233
+Legendre - Clichy,Al Caratello,Menelik,4.7,N/A,1061.6034654119155,243
+Legendre - Clichy,Al Caratello,Cucuzza,4.7,N/A,1061.6034654119155,305
+Legendre - Clichy,Al Caratello,Le Refuge des Moines,4.7,N/A,1061.6034654119155,312
+Legendre - Clichy,Al Caratello,L'Etabli,4.7,N/A,1061.6034654119155,347
+Legendre - Clichy,Comme chez Maman,Marché Couvert Batignolles,4.3,N/A,363.08702800433406,233
+Legendre - Clichy,Comme chez Maman,Menelik,4.3,N/A,363.08702800433406,243
+Legendre - Clichy,Comme chez Maman,Cucuzza,4.3,N/A,363.08702800433406,305
+Legendre - Clichy,Comme chez Maman,Le Refuge des Moines,4.3,N/A,363.08702800433406,312
+Legendre - Clichy,Comme chez Maman,L'Etabli,4.3,N/A,363.08702800433406,347
+Legendre - Clichy,Le Basilic,Marché Couvert Batignolles,4.2,N/A,920.1268939418832,233
+Legendre - Clichy,Le Basilic,Menelik,4.2,N/A,920.1268939418832,243
+Legendre - Clichy,Le Basilic,Cucuzza,4.2,N/A,920.1268939418832,305
+Legendre - Clichy,Le Basilic,Le Refuge des Moines,4.2,N/A,920.1268939418832,312
+Legendre - Clichy,Le Basilic,L'Etabli,4.2,N/A,920.1268939418832,347
+Legendre - Clichy,Cucuzza,Marché Couvert Batignolles,4.8,N/A,304.16582920116406,233
+Legendre - Clichy,Cucuzza,Menelik,4.8,N/A,304.16582920116406,243
+Legendre - Clichy,Cucuzza,Cucuzza,4.8,N/A,304.16582920116406,305
+Legendre - Clichy,Cucuzza,Le Refuge des Moines,4.8,N/A,304.16582920116406,312
+Legendre - Clichy,Cucuzza,L'Etabli,4.8,N/A,304.16582920116406,347
+Place Charles de Gaulle,Au Soleil Levant,Song Giang,4.7,N/A,1091.3142889674443,89
+Place Charles de Gaulle,Au Soleil Levant,Perrinelle Bernard,4.7,N/A,1091.3142889674443,109
+Place Charles de Gaulle,Au Soleil Levant,La Crêperie des Artistes,4.7,N/A,1091.3142889674443,413
+Place Charles de Gaulle,Au Soleil Levant,A la Reine Astrid,4.7,N/A,1091.3142889674443,309
+Place Charles de Gaulle,Au Soleil Levant,Les Délices d'Avray,4.7,N/A,1091.3142889674443,328
+Place Charles de Gaulle,Le Corot,Song Giang,5.0,N/A,649.3023919374347,89
+Place Charles de Gaulle,Le Corot,Perrinelle Bernard,5.0,N/A,649.3023919374347,109
+Place Charles de Gaulle,Le Corot,La Crêperie des Artistes,5.0,N/A,649.3023919374347,413
+Place Charles de Gaulle,Le Corot,A la Reine Astrid,5.0,N/A,649.3023919374347,309
+Place Charles de Gaulle,Le Corot,Les Délices d'Avray,5.0,N/A,649.3023919374347,328
+Place Charles de Gaulle,Le Café des Artistes,Song Giang,4.6,N/A,692.2704904282251,89
+Place Charles de Gaulle,Le Café des Artistes,Perrinelle Bernard,4.6,N/A,692.2704904282251,109
+Place Charles de Gaulle,Le Café des Artistes,La Crêperie des Artistes,4.6,N/A,692.2704904282251,413
+Place Charles de Gaulle,Le Café des Artistes,A la Reine Astrid,4.6,N/A,692.2704904282251,309
+Place Charles de Gaulle,Le Café des Artistes,Les Délices d'Avray,4.6,N/A,692.2704904282251,328
+Place Charles de Gaulle,Le Tajmahal,Song Giang,4.8,N/A,1327.641410488462,89
+Place Charles de Gaulle,Le Tajmahal,Perrinelle Bernard,4.8,N/A,1327.641410488462,109
+Place Charles de Gaulle,Le Tajmahal,La Crêperie des Artistes,4.8,N/A,1327.641410488462,413
+Place Charles de Gaulle,Le Tajmahal,A la Reine Astrid,4.8,N/A,1327.641410488462,309
+Place Charles de Gaulle,Le Tajmahal,Les Délices d'Avray,4.8,N/A,1327.641410488462,328
+Place Charles de Gaulle,Le Réfectoire - Foodtruck,Song Giang,4.3,N/A,14093.742339090126,89
+Place Charles de Gaulle,Le Réfectoire - Foodtruck,Perrinelle Bernard,4.3,N/A,14093.742339090126,109
+Place Charles de Gaulle,Le Réfectoire - Foodtruck,La Crêperie des Artistes,4.3,N/A,14093.742339090126,413
+Place Charles de Gaulle,Le Réfectoire - Foodtruck,A la Reine Astrid,4.3,N/A,14093.742339090126,309
+Place Charles de Gaulle,Le Réfectoire - Foodtruck,Les Délices d'Avray,4.3,N/A,14093.742339090126,328
+Roquette - Auguste Laurent,Chez Janou,VG Pâtisserie,4.1,N/A,1079.421890842419,119
+Roquette - Auguste Laurent,Chez Janou,Chez Aline,4.1,N/A,1079.421890842419,261
+Roquette - Auguste Laurent,Chez Janou,Le Servan,4.1,N/A,1079.421890842419,342
+Roquette - Auguste Laurent,Chez Janou,Atelier des Lumières,4.1,N/A,1079.421890842419,437
+Roquette - Auguste Laurent,Chez Janou,Yemma,4.1,N/A,1079.421890842419,433
+Roquette - Auguste Laurent,Septime,VG Pâtisserie,4.3,N/A,501.9173001187637,119
+Roquette - Auguste Laurent,Septime,Chez Aline,4.3,N/A,501.9173001187637,261
+Roquette - Auguste Laurent,Septime,Le Servan,4.3,N/A,501.9173001187637,342
+Roquette - Auguste Laurent,Septime,Atelier des Lumières,4.3,N/A,501.9173001187637,437
+Roquette - Auguste Laurent,Septime,Yemma,4.3,N/A,501.9173001187637,433
+Roquette - Auguste Laurent,Chez Troquette,VG Pâtisserie,4.9,N/A,135.89311107921108,119
+Roquette - Auguste Laurent,Chez Troquette,Chez Aline,4.9,N/A,135.89311107921108,261
+Roquette - Auguste Laurent,Chez Troquette,Le Servan,4.9,N/A,135.89311107921108,342
+Roquette - Auguste Laurent,Chez Troquette,Atelier des Lumières,4.9,N/A,135.89311107921108,437
+Roquette - Auguste Laurent,Chez Troquette,Yemma,4.9,N/A,135.89311107921108,433
+Roquette - Auguste Laurent,Clamato,VG Pâtisserie,4.4,N/A,503.75295993732135,119
+Roquette - Auguste Laurent,Clamato,Chez Aline,4.4,N/A,503.75295993732135,261
+Roquette - Auguste Laurent,Clamato,Le Servan,4.4,N/A,503.75295993732135,342
+Roquette - Auguste Laurent,Clamato,Atelier des Lumières,4.4,N/A,503.75295993732135,437
+Roquette - Auguste Laurent,Clamato,Yemma,4.4,N/A,503.75295993732135,433
+Roquette - Auguste Laurent,Le Temps des Cerises,VG Pâtisserie,4.4,N/A,1423.2294584824606,119
+Roquette - Auguste Laurent,Le Temps des Cerises,Chez Aline,4.4,N/A,1423.2294584824606,261
+Roquette - Auguste Laurent,Le Temps des Cerises,Le Servan,4.4,N/A,1423.2294584824606,342
+Roquette - Auguste Laurent,Le Temps des Cerises,Atelier des Lumières,4.4,N/A,1423.2294584824606,437
+Roquette - Auguste Laurent,Le Temps des Cerises,Yemma,4.4,N/A,1423.2294584824606,433
+Bridaine - Lamandé,Pink Mamma,L'Etabli,4.0,N/A,1121.770858616622,18
+Bridaine - Lamandé,Pink Mamma,L'Ebeniste du Vin,4.0,N/A,1121.770858616622,202
+Bridaine - Lamandé,Pink Mamma,Café Dose Paris Batignolles,4.0,N/A,1121.770858616622,228
+Bridaine - Lamandé,Pink Mamma,Cucuzza,4.0,N/A,1121.770858616622,236
+Bridaine - Lamandé,Pink Mamma,Le Boeuf Volant,4.0,N/A,1121.770858616622,239
+Bridaine - Lamandé,Al Caratello,L'Etabli,4.7,N/A,1122.0059670144865,18
+Bridaine - Lamandé,Al Caratello,L'Ebeniste du Vin,4.7,N/A,1122.0059670144865,202
+Bridaine - Lamandé,Al Caratello,Café Dose Paris Batignolles,4.7,N/A,1122.0059670144865,228
+Bridaine - Lamandé,Al Caratello,Cucuzza,4.7,N/A,1122.0059670144865,236
+Bridaine - Lamandé,Al Caratello,Le Boeuf Volant,4.7,N/A,1122.0059670144865,239
+Bridaine - Lamandé,Comme chez Maman,L'Etabli,4.3,N/A,243.90721814343468,18
+Bridaine - Lamandé,Comme chez Maman,L'Ebeniste du Vin,4.3,N/A,243.90721814343468,202
+Bridaine - Lamandé,Comme chez Maman,Café Dose Paris Batignolles,4.3,N/A,243.90721814343468,228
+Bridaine - Lamandé,Comme chez Maman,Cucuzza,4.3,N/A,243.90721814343468,236
+Bridaine - Lamandé,Comme chez Maman,Le Boeuf Volant,4.3,N/A,243.90721814343468,239
+Bridaine - Lamandé,L'Endroit,L'Etabli,3.8,N/A,181.51451128865438,18
+Bridaine - Lamandé,L'Endroit,L'Ebeniste du Vin,3.8,N/A,181.51451128865438,202
+Bridaine - Lamandé,L'Endroit,Café Dose Paris Batignolles,3.8,N/A,181.51451128865438,228
+Bridaine - Lamandé,L'Endroit,Cucuzza,3.8,N/A,181.51451128865438,236
+Bridaine - Lamandé,L'Endroit,Le Boeuf Volant,3.8,N/A,181.51451128865438,239
+Bridaine - Lamandé,Le Club des 5,L'Etabli,3.9,N/A,115.78390351760113,18
+Bridaine - Lamandé,Le Club des 5,L'Ebeniste du Vin,3.9,N/A,115.78390351760113,202
+Bridaine - Lamandé,Le Club des 5,Café Dose Paris Batignolles,3.9,N/A,115.78390351760113,228
+Bridaine - Lamandé,Le Club des 5,Cucuzza,3.9,N/A,115.78390351760113,236
+Bridaine - Lamandé,Le Club des 5,Le Boeuf Volant,3.9,N/A,115.78390351760113,239
+Ney - Porte de Montmartre,Al Caratello,La Poste,4.7,N/A,1410.7191074493705,75
+Ney - Porte de Montmartre,Al Caratello,La Bricole,4.7,N/A,1410.7191074493705,310
+Ney - Porte de Montmartre,Al Caratello,Franprix,4.7,N/A,1410.7191074493705,147
+Ney - Porte de Montmartre,Al Caratello,Le Sultan,4.7,N/A,1410.7191074493705,423
+Ney - Porte de Montmartre,Al Caratello,Picolo,4.7,N/A,1410.7191074493705,443
+Ney - Porte de Montmartre,Sacrée Fleur,La Poste,4.6,N/A,1429.2777371865423,75
+Ney - Porte de Montmartre,Sacrée Fleur,La Bricole,4.6,N/A,1429.2777371865423,310
+Ney - Porte de Montmartre,Sacrée Fleur,Franprix,4.6,N/A,1429.2777371865423,147
+Ney - Porte de Montmartre,Sacrée Fleur,Le Sultan,4.6,N/A,1429.2777371865423,423
+Ney - Porte de Montmartre,Sacrée Fleur,Picolo,4.6,N/A,1429.2777371865423,443
+Ney - Porte de Montmartre,Le Basilic,La Poste,4.2,N/A,1335.0078017068965,75
+Ney - Porte de Montmartre,Le Basilic,La Bricole,4.2,N/A,1335.0078017068965,310
+Ney - Porte de Montmartre,Le Basilic,Franprix,4.2,N/A,1335.0078017068965,147
+Ney - Porte de Montmartre,Le Basilic,Le Sultan,4.2,N/A,1335.0078017068965,423
+Ney - Porte de Montmartre,Le Basilic,Picolo,4.2,N/A,1335.0078017068965,443
+Ney - Porte de Montmartre,The Hardware Société,La Poste,4.6,N/A,1363.1197243577235,75
+Ney - Porte de Montmartre,The Hardware Société,La Bricole,4.6,N/A,1363.1197243577235,310
+Ney - Porte de Montmartre,The Hardware Société,Franprix,4.6,N/A,1363.1197243577235,147
+Ney - Porte de Montmartre,The Hardware Société,Le Sultan,4.6,N/A,1363.1197243577235,423
+Ney - Porte de Montmartre,The Hardware Société,Picolo,4.6,N/A,1363.1197243577235,443
+Ney - Porte de Montmartre,La Boîte aux Lettres,La Poste,4.8,N/A,1239.1139241696728,75
+Ney - Porte de Montmartre,La Boîte aux Lettres,La Bricole,4.8,N/A,1239.1139241696728,310
+Ney - Porte de Montmartre,La Boîte aux Lettres,Franprix,4.8,N/A,1239.1139241696728,147
+Ney - Porte de Montmartre,La Boîte aux Lettres,Le Sultan,4.8,N/A,1239.1139241696728,423
+Ney - Porte de Montmartre,La Boîte aux Lettres,Picolo,4.8,N/A,1239.1139241696728,443
